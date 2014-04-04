@@ -2,6 +2,7 @@ import csv
 import re
 import requests
 
+# Dictionary containing all street type mappings
 streetEndings = {'Ave':'Av',
                 'Blvd':'Bl',
                 'Cir':'Cr',
@@ -20,11 +21,14 @@ streetEndings = {'Ave':'Av',
                 'Way':'Wy'
                 }
 
+# Cache to hold list of elementary and middle schools for previously searched address
+cache = dict()
+
 sfURL = 'http://www.sfpublicschools.org/php/lookup.php'
 fileName = 'homeData.csv'
 newFile = 'homeDataAppended.csv'
 
-with open(fileName, 'rb') as homeFile:
+with open(fileName, 'r') as homeFile:
     homeReader = csv.reader(homeFile, delimiter=',')
     
     with open(newFile, 'w') as createdFile:
@@ -57,41 +61,53 @@ with open(fileName, 'rb') as homeFile:
             elif '-' in streetNum:
                 range = streetNum.split('-')
                 streetNum = range[0]
-            # Set up POST parameters
-            params = dict(stnum=streetNum, stname=streetName, suffix=streetType, ti='notti', operation='dosomething', submit='Look Up')
             
-            r = requests.post(sfURL, data=params)
+            newAddress = ' '.join([streetNum, streetName, streetType])
             
-            # Skip this address if the address was not found
-            if 'SORRY, YOUR ADDRESS CANNOT BE FOUND!' in r.text:
-                continue
+            # Check to see if the schools are in the cache already for the address
+            schoolList = cache[newAddress]
             
-            elementarySchool_match = re.search(r'target="_blank">((\w+|\s)*)</a> \(SCHOOL #', r.text)
-            middleSchool_match = re.search(r'This school feeds into:<br /><b>((\w+|\s|-|\.)*)</b>', r.text)
-            
-            if elementarySchool_match is None:
-                continue
+            if schoolList is None:
+                # Set up POST parameters
+                params = dict(stnum=streetNum, stname=streetName, suffix=streetType, ti='notti', operation='dosomething', submit='Look Up')
+                
+                r = requests.post(sfURL, data=params)
+                
+                # Skip this address if the address was not found
+                if 'SORRY, YOUR ADDRESS CANNOT BE FOUND!' in r.text:
+                    continue
+                
+                elementarySchool_match = re.search(r'target="_blank">((\w+|\s)*)</a> \(SCHOOL #', r.text)
+                middleSchool_match = re.search(r'This school feeds into:<br /><b>((\w+|\s|-|\.)*)</b>', r.text)
+                
+                if elementarySchool_match is None:
+                    continue
+                else:
+                    elementarySchool = elementarySchool_match.group(1)
+                if middleSchool_match is None:
+                    middleSchool = ''
+                else:
+                    middleSchool = middleSchool_match.group(1)
+                
+                middleSchool_error = 'The first choice school listed will be considered the middle school feeder for the 2014-15 school year.'
+                
+                if middleSchool == middleSchool_error:
+                    middleSchool = ''
+                elif 'SCHOOL' in middleSchool:
+                    endIndex = middleSchool.find('SCHOOL') - 1
+                    middleSchool = middleSchool[:endIndex]
+                
+                elemList = [word[0].upper() + word[1:].lower() for word in elementarySchool.split()]
+                elemList.append('Elementary')
+                elementarySchool = ' '.join(elemList)
+                
+                middleSchool = ' '.join(word[0].upper() + word[1:].lower() for word in middleSchool.split())
+                
+                newList = [elementarySchool, middleSchool, '\n']
+                cache[newAddress] = newList
+                
+                row.extend(newList)
             else:
-                elementarySchool = elementarySchool_match.group(1)
-            if middleSchool_match is None:
-                middleSchool = ''
-            else:
-                middleSchool = middleSchool_match.group(1)
+                row.extend(schoolList)
             
-            middleSchool_error = 'The first choice school listed will be considered the middle school feeder for the 2014-15 school year.'
-            
-            if middleSchool == middleSchool_error:
-                middleSchool = ''
-            elif 'SCHOOL' in middleSchool:
-                endIndex = middleSchool.find('SCHOOL') - 1
-                middleSchool = middleSchool[:endIndex]
-            
-            elemList = [word[0].upper() + word[1:].lower() for word in elementarySchool.split()]
-            elemList.append('Elementary')
-            elementarySchool = ' '.join(elemList)
-            
-            middleSchool = ' '.join(word[0].upper() + word[1:].lower() for word in middleSchool.split())
-            
-            row.extend([elementarySchool, middleSchool, '\n'])
-            
-            createdFile.write(' '.join(row))
+            createdFile.write(','.join(row))
