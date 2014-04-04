@@ -24,13 +24,16 @@ streetEndings = {'Ave':'Av',
 # Cache to hold list of elementary and middle schools for previously searched address
 cache = dict()
 
+# The URL to retrieve the elementary and/or middle school a home is assigned to
 sfURL = 'http://www.sfpublicschools.org/php/lookup.php'
 fileName = 'homeData.csv'
 newFile = 'homeDataAppended.csv'
 
+# Read the csv file with home data to retrieve the address
 with open(fileName, 'r') as homeFile:
     homeReader = csv.reader(homeFile, delimiter=',')
     
+    # Open a new file to write to
     with open(newFile, 'w') as createdFile:
         createdFile.write('zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,percentile,elemSchool,midSchool\n')
         for row in homeReader:
@@ -77,8 +80,12 @@ with open(fileName, 'r') as homeFile:
                 if 'SORRY, YOUR ADDRESS CANNOT BE FOUND!' in r.text:
                     continue
                 
+                # Will determine which of the two operations performs better. Running this script with re.search on 17819 records
+                # took about 90 minutes.
                 elementarySchool_match = re.search(r'target="_blank">((\w+|\s)*)</a> \(SCHOOL #', r.text)
+                #elementarySchool_match = re.match(r'.*target="_blank">((\w|\s)*)</a> \(SCHOOL #', r.text)
                 middleSchool_match = re.search(r'This school feeds into:<br /><b>((\w+|\s|-|\.)*)</b>', r.text)
+                #middleSchool_match = re.match(r'.*This school feeds into:<br /><b>((\w+|\s|-|\.)*)</b>', r.text)
                 
                 if elementarySchool_match is None:
                     continue
