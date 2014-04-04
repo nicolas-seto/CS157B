@@ -65,7 +65,7 @@ with open(fileName, 'r') as homeFile:
             newAddress = ' '.join([streetNum, streetName, streetType])
             
             # Check to see if the schools are in the cache already for the address
-            schoolList = cache[newAddress]
+            schoolList = cache.get(newAddress)
             
             if schoolList is None:
                 # Set up POST parameters
