@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Author: Nic Seto
+
 FILE=uniqueZpids.txt
 
 if [ ! -d "zestimates" ]; then

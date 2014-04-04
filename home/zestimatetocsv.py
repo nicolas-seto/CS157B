@@ -2,6 +2,8 @@ import os
 import sys
 import xml.etree.ElementTree as etree
 
+# Author: Nic Seto
+
 FOLDER = 'zestimates'
 DIR = os.getcwd()
 NEW_DIR = os.path.join(DIR, FOLDER)

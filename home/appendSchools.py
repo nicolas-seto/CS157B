@@ -2,6 +2,8 @@ import csv
 import re
 import requests
 
+# Author: Nic Seto
+
 # Dictionary containing all street type mappings
 streetEndings = {'Ave':'Av',
                 'Blvd':'Bl',

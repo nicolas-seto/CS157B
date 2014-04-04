@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Author: Nic Seto
+
 FILE=URLs.txt
 let lineNum=1
 let totalPages=0
