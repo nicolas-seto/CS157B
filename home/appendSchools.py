@@ -103,11 +103,11 @@ with open(fileName, 'r') as homeFile:
                 
                 middleSchool = ' '.join(word[0].upper() + word[1:].lower() for word in middleSchool.split())
                 
-                newList = [elementarySchool, middleSchool, '\n']
+                newList = [elementarySchool, middleSchool]
                 cache[newAddress] = newList
                 
                 row.extend(newList)
             else:
                 row.extend(schoolList)
             
-            createdFile.write(','.join(row))
+            createdFile.write(','.join(row) + '\n')
