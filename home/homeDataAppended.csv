@@ -1765,18 +1765,18 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 15065733,1360 Montgomery St APT 7,94133,San Francisco,CA,37.801802,-122.404269,1255685,966877,1444038,43,Garfield Elementary,Francisco Middle
 15065740,261 Filbert St,94133,San Francisco,CA,37.80188,-122.40393,745034,655630,841888,11,Garfield Elementary,Francisco Middle
 15065744,282 Union St,94133,San Francisco,CA,37.80131,-122.40385,1308678,1177810,1439546,46,Garfield Elementary,Francisco Middle
-15065752,37 Calhoun Ter,94133,San Francisco,CA,37.800636,-122.403756,5904643,4723714,6790339,98,Chin Elementary,Francisco Middle
-15065754,260 Green St,94133,San Francisco,CA,37.800433,-122.403693,9887779,6229301,14633913,99,Chin Elementary,Francisco Middle
-15065765,304 Green St,94133,San Francisco,CA,37.800258,-122.404566,1701654,1531489,1922869,62,Chin Elementary,Francisco Middle
-15065768,312 Green St,94133,San Francisco,CA,37.800198,-122.404883,1318489,1107531,1516262,47,Chin Elementary,Francisco Middle
-15065777,1334-1338 Kearny St,94133,San Francisco,CA,37.80042,-122.405677,2667941,1974276,3308247,85,Chin Elementary,Francisco Middle
-15065778,1340 Kearny St # 1346,94133,San Francisco,CA,37.800489,-122.405692,3209394,2374952,4011743,91,Chin Elementary,Francisco Middle
-15065781,375-379 Union St,94133,San Francisco,CA,37.800666,-122.405586,3377028,2667852,4086204,92,Chin Elementary,Francisco Middle
-15065795,56 Castle St,94133,San Francisco,CA,37.800674,-122.405049,1214928,996241,1385018,41,Chin Elementary,Francisco Middle
-15065796,337 Union St,94133,San Francisco,CA,37.800788,-122.405002,1866874,1437493,2202911,67,Chin Elementary,Francisco Middle
-15065810,1327-1329 Kearny St,94133,San Francisco,CA,37.80026,-122.406123,2407902,2046717,2841324,80,Chin Elementary,Francisco Middle
-15065811,1321-1325 Kearny St,94133,San Francisco,CA,37.800205,-122.406116,2627342,2128147,3179084,84,Chin Elementary,Francisco Middle
-15065814,406-410 Green St,94133,San Francisco,CA,37.80005,-122.406047,2090414,1546906,2675730,72,Chin Elementary,Francisco Middle
+15065752,37 Calhoun Ter,94133,San Francisco,CA,37.800636,-122.403756,5904643,4723714,6790339,98,Chin (John Yehall) Elementary,Francisco Middle
+15065754,260 Green St,94133,San Francisco,CA,37.800433,-122.403693,9887779,6229301,14633913,99,Chin (John Yehall) Elementary,Francisco Middle
+15065765,304 Green St,94133,San Francisco,CA,37.800258,-122.404566,1701654,1531489,1922869,62,Chin (John Yehall) Elementary,Francisco Middle
+15065768,312 Green St,94133,San Francisco,CA,37.800198,-122.404883,1318489,1107531,1516262,47,Chin (John Yehall) Elementary,Francisco Middle
+15065777,1334-1338 Kearny St,94133,San Francisco,CA,37.80042,-122.405677,2667941,1974276,3308247,85,Chin (John Yehall) Elementary,Francisco Middle
+15065778,1340 Kearny St # 1346,94133,San Francisco,CA,37.800489,-122.405692,3209394,2374952,4011743,91,Chin (John Yehall) Elementary,Francisco Middle
+15065781,375-379 Union St,94133,San Francisco,CA,37.800666,-122.405586,3377028,2667852,4086204,92,Chin (John Yehall) Elementary,Francisco Middle
+15065795,56 Castle St,94133,San Francisco,CA,37.800674,-122.405049,1214928,996241,1385018,41,Chin (John Yehall) Elementary,Francisco Middle
+15065796,337 Union St,94133,San Francisco,CA,37.800788,-122.405002,1866874,1437493,2202911,67,Chin (John Yehall) Elementary,Francisco Middle
+15065810,1327-1329 Kearny St,94133,San Francisco,CA,37.80026,-122.406123,2407902,2046717,2841324,80,Chin (John Yehall) Elementary,Francisco Middle
+15065811,1321-1325 Kearny St,94133,San Francisco,CA,37.800205,-122.406116,2627342,2128147,3179084,84,Chin (John Yehall) Elementary,Francisco Middle
+15065814,406-410 Green St,94133,San Francisco,CA,37.80005,-122.406047,2090414,1546906,2675730,72,Chin (John Yehall) Elementary,Francisco Middle
 15065854,25-29 Jasper Pl,94133,San Francisco,CA,37.799978,-122.408386,1750323,1365252,2100388,63,Garfield Elementary,Francisco Middle
 15065857,527-531 Union St,94133,San Francisco,CA,37.800376,-122.408046,2289194,1900031,2747033,77,Garfield Elementary,Francisco Middle
 15065867,1621-1623 Powell St,94133,San Francisco,CA,37.799581,-122.410953,1164807,931846,1374472,39,Yick Wo Elementary,Francisco Middle
@@ -1851,27 +1851,27 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 15066469,906 Vallejo St,94133,San Francisco,CA,37.798279,-122.41233,2195383,1470907,2766183,75,Yick Wo Elementary,Francisco Middle
 15066498,778-780 Vallejo St,94133,San Francisco,CA,37.798608,-122.410102,1574652,1275468,1858089,58,Yick Wo Elementary,Francisco Middle
 15066500,667-671 Green St,94133,San Francisco,CA,37.799146,-122.410049,2745043,2031332,3458754,86,Yick Wo Elementary,Francisco Middle
-15066517,451 Green St,94133,San Francisco,CA,37.799623,-122.406524,2039837,1591073,2529398,71,Chin Elementary,Francisco Middle
-15066524,411 Green St APT 3A,94133,San Francisco,CA,37.799689,-122.406099,741580,630343,830570,11,Chin Elementary,Francisco Middle
-15066527,411 Green St APT 4B,94133,San Francisco,CA,37.799689,-122.406099,731801,680575,804981,10,Chin Elementary,Francisco Middle
-15066537,434-438 Vallejo St,94133,San Francisco,CA,37.799373,-122.404719,3384019,2538014,4162343,92,Chin Elementary,Francisco Middle
-15066538,440-442 Vallejo St,94133,San Francisco,CA,37.799363,-122.404788,2943926,2384580,3444393,88,Chin Elementary,Francisco Middle
-15066539,446-448 Vallejo St,94133,San Francisco,CA,37.799354,-122.404857,4282716,3083555,5781667,96,Chin Elementary,Francisco Middle
-15066541,460-462 Vallejo St,94133,San Francisco,CA,37.799327,-122.405063,1659454,1178212,2057723,61,Chin Elementary,Francisco Middle
-15066552,1218 Kearny St,94133,San Francisco,CA,37.79933,-122.405509,656282,551277,774413,7,Chin Elementary,Francisco Middle
-15066553,1220 Kearny St,94133,San Francisco,CA,37.79933,-122.405509,656282,551277,774413,7,Chin Elementary,Francisco Middle
-15066556,368 Vallejo St,94133,San Francisco,CA,37.799412,-122.403528,1208834,930802,1462689,41,Chin Elementary,Francisco Middle
-15066563,384-388 Vallejo St,94133,San Francisco,CA,37.799377,-122.403835,3051358,2288518,3936252,90,Chin Elementary,Francisco Middle
-15066568,1148 Montgomery St,94133,San Francisco,CA,37.799893,-122.403953,1336697,1029257,1630770,47,Chin Elementary,Francisco Middle
-15066579,30 Prescott Ct,94133,San Francisco,CA,37.798853,-122.403029,1663719,1447436,1896640,61,Chin Elementary,Francisco Middle
-15066592,411 Vallejo St,94133,San Francisco,CA,37.798958,-122.404499,1176960,988646,1377043,40,Chin Elementary,Francisco Middle
-15066595,455 Vallejo St APT A,94133,San Francisco,CA,37.798796,-122.404766,742662,683249,846635,11,Chin Elementary,Francisco Middle
-15066608,455 Vallejo St APT 111,94133,San Francisco,CA,37.798796,-122.404766,726340,668233,813501,10,Chin Elementary,Francisco Middle
-15066611,455 Vallejo St APT 202,94133,San Francisco,CA,37.79879,-122.404775,970688,834792,1096877,26,Chin Elementary,Francisco Middle
-15066612,455 Vallejo St APT 203,94133,San Francisco,CA,37.798796,-122.404766,726404,668292,813572,10,Chin Elementary,Francisco Middle
-15066614,455 Vallejo St APT 205,94133,San Francisco,CA,37.798796,-122.404766,725987,667908,813105,10,Chin Elementary,Francisco Middle
-15066625,455 Vallejo St APT 305,94133,San Francisco,CA,37.798796,-122.404766,726293,668190,813448,10,Chin Elementary,Francisco Middle
-15066629,455 Vallejo St APT 309,94133,San Francisco,CA,37.798796,-122.404766,742620,683210,846587,11,Chin Elementary,Francisco Middle
+15066517,451 Green St,94133,San Francisco,CA,37.799623,-122.406524,2039837,1591073,2529398,71,Chin (John Yehall) Elementary,Francisco Middle
+15066524,411 Green St APT 3A,94133,San Francisco,CA,37.799689,-122.406099,741580,630343,830570,11,Chin (John Yehall) Elementary,Francisco Middle
+15066527,411 Green St APT 4B,94133,San Francisco,CA,37.799689,-122.406099,731801,680575,804981,10,Chin (John Yehall) Elementary,Francisco Middle
+15066537,434-438 Vallejo St,94133,San Francisco,CA,37.799373,-122.404719,3384019,2538014,4162343,92,Chin (John Yehall) Elementary,Francisco Middle
+15066538,440-442 Vallejo St,94133,San Francisco,CA,37.799363,-122.404788,2943926,2384580,3444393,88,Chin (John Yehall) Elementary,Francisco Middle
+15066539,446-448 Vallejo St,94133,San Francisco,CA,37.799354,-122.404857,4282716,3083555,5781667,96,Chin (John Yehall) Elementary,Francisco Middle
+15066541,460-462 Vallejo St,94133,San Francisco,CA,37.799327,-122.405063,1659454,1178212,2057723,61,Chin (John Yehall) Elementary,Francisco Middle
+15066552,1218 Kearny St,94133,San Francisco,CA,37.79933,-122.405509,656282,551277,774413,7,Chin (John Yehall) Elementary,Francisco Middle
+15066553,1220 Kearny St,94133,San Francisco,CA,37.79933,-122.405509,656282,551277,774413,7,Chin (John Yehall) Elementary,Francisco Middle
+15066556,368 Vallejo St,94133,San Francisco,CA,37.799412,-122.403528,1208834,930802,1462689,41,Chin (John Yehall) Elementary,Francisco Middle
+15066563,384-388 Vallejo St,94133,San Francisco,CA,37.799377,-122.403835,3051358,2288518,3936252,90,Chin (John Yehall) Elementary,Francisco Middle
+15066568,1148 Montgomery St,94133,San Francisco,CA,37.799893,-122.403953,1336697,1029257,1630770,47,Chin (John Yehall) Elementary,Francisco Middle
+15066579,30 Prescott Ct,94133,San Francisco,CA,37.798853,-122.403029,1663719,1447436,1896640,61,Chin (John Yehall) Elementary,Francisco Middle
+15066592,411 Vallejo St,94133,San Francisco,CA,37.798958,-122.404499,1176960,988646,1377043,40,Chin (John Yehall) Elementary,Francisco Middle
+15066595,455 Vallejo St APT A,94133,San Francisco,CA,37.798796,-122.404766,742662,683249,846635,11,Chin (John Yehall) Elementary,Francisco Middle
+15066608,455 Vallejo St APT 111,94133,San Francisco,CA,37.798796,-122.404766,726340,668233,813501,10,Chin (John Yehall) Elementary,Francisco Middle
+15066611,455 Vallejo St APT 202,94133,San Francisco,CA,37.79879,-122.404775,970688,834792,1096877,26,Chin (John Yehall) Elementary,Francisco Middle
+15066612,455 Vallejo St APT 203,94133,San Francisco,CA,37.798796,-122.404766,726404,668292,813572,10,Chin (John Yehall) Elementary,Francisco Middle
+15066614,455 Vallejo St APT 205,94133,San Francisco,CA,37.798796,-122.404766,725987,667908,813105,10,Chin (John Yehall) Elementary,Francisco Middle
+15066625,455 Vallejo St APT 305,94133,San Francisco,CA,37.798796,-122.404766,726293,668190,813448,10,Chin (John Yehall) Elementary,Francisco Middle
+15066629,455 Vallejo St APT 309,94133,San Francisco,CA,37.798796,-122.404766,742620,683210,846587,11,Chin (John Yehall) Elementary,Francisco Middle
 15066663,865 Vallejo St APT 101,94133,San Francisco,CA,37.797965,-122.411395,743760,676822,810698,11,Jean Parker Elementary,Francisco Middle
 15066685,2 Fallon Pl APT 1,94133,San Francisco,CA,37.797775,-122.413145,658617,566411,737651,7,Yick Wo Elementary,Francisco Middle
 15066687,941 Vallejo St # 36,94133,San Francisco,CA,37.797775,-122.413145,714836,543275,886397,9,Yick Wo Elementary,Francisco Middle
@@ -1909,26 +1909,26 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 15067033,51 Bernard St,94133,San Francisco,CA,37.796287,-122.414278,1034491,827593,1210354,31,Yick Wo Elementary,Francisco Middle
 15067060,66 Bernard St # 3,94133,San Francisco,CA,37.796527,-122.414473,659453,560535,738587,7,Yick Wo Elementary,Francisco Middle
 15067102,1520 Taylor St APT 304,94133,San Francisco,CA,37.796461,-122.413099,1117758,927739,1274244,36,Yick Wo Elementary,Francisco Middle
-15067144,170 Pacific Ave APT 12,94111,San Francisco,CA,37.798249,-122.39918,902332,821122,1010612,37,Chin Elementary,Francisco Middle
-15067159,170 Pacific Ave APT 27,94111,San Francisco,CA,37.798249,-122.39918,1870660,1627474,2132552,87,Chin Elementary,Francisco Middle
-15067163,31 Front St,94111,San Francisco,CA,37.798249,-122.39918,1932660,1681414,2183906,88,Chin Elementary,Francisco Middle
-15067165,33 Front St,94111,San Francisco,CA,37.798249,-122.39918,1933344,1740010,2184679,88,Chin Elementary,Francisco Middle
-15067189,170 Pacific Ave APT 4,94111,San Francisco,CA,37.798249,-122.39918,2133630,1856258,2475011,91,Chin Elementary,Francisco Middle
-15067198,640 Davis St UNIT 8,94111,San Francisco,CA,37.79842,-122.39796,2202043,1849716,2444268,93,Chin Elementary,Francisco Middle
-15067204,640 Davis St APT 14,94111,San Francisco,CA,37.79842,-122.39796,1245104,1133045,1382065,66,Chin Elementary,Francisco Middle
-15067209,640 Davis St APT 19,94111,San Francisco,CA,37.79842,-122.39796,1740152,1426925,1983773,86,Chin Elementary,Francisco Middle
-15067215,640 Davis St UNIT 25,94111,San Francisco,CA,37.79842,-122.39796,2030014,1705212,2314216,89,Chin Elementary,Francisco Middle
-15067220,640 Davis St UNIT 30,94111,San Francisco,CA,37.79842,-122.39796,1240753,1129085,1364828,65,Chin Elementary,Francisco Middle
-15067226,640 Davis St APT 36,94111,San Francisco,CA,37.79842,-122.39796,1649573,1319658,1979488,83,Chin Elementary,Francisco Middle
-15067243,640 Davis St APT 1,94111,San Francisco,CA,37.79842,-122.39796,1982816,1744878,2240582,89,Chin Elementary,Francisco Middle
-15067263,550 Davis St UNIT 16,94111,San Francisco,CA,37.79763,-122.3978,1669136,1301926,2036346,84,Chin Elementary,Francisco Middle
-15067264,550 Davis St UNIT 17,94111,San Francisco,CA,37.79763,-122.3978,3832746,2951214,4445985,99,Chin Elementary,Francisco Middle
-15067266,550 Davis St UNIT 19,94111,San Francisco,CA,37.79763,-122.3978,2117793,1800124,2477818,90,Chin Elementary,Francisco Middle
-15067278,550 Davis St UNIT 33,94111,San Francisco,CA,37.79763,-122.3978,1658333,1310083,2006583,83,Chin Elementary,Francisco Middle
-15067280,550 Davis St UNIT 35,94111,San Francisco,CA,37.79763,-122.3978,1084106,943172,1214199,57,Chin Elementary,Francisco Middle
-15067289,550 Davis St UNIT 44,94111,San Francisco,CA,37.79763,-122.3978,1344616,1223601,1465631,72,Chin Elementary,Francisco Middle
-15067291,550 Davis St UNIT 46,94111,San Francisco,CA,37.79763,-122.3978,1284932,1143589,1413425,70,Chin Elementary,Francisco Middle
-15067295,550 Davis St UNIT 50,94111,San Francisco,CA,37.79763,-122.3978,1524522,1295844,1707465,81,Chin Elementary,Francisco Middle
+15067144,170 Pacific Ave APT 12,94111,San Francisco,CA,37.798249,-122.39918,902332,821122,1010612,37,Chin (John Yehall) Elementary,Francisco Middle
+15067159,170 Pacific Ave APT 27,94111,San Francisco,CA,37.798249,-122.39918,1870660,1627474,2132552,87,Chin (John Yehall) Elementary,Francisco Middle
+15067163,31 Front St,94111,San Francisco,CA,37.798249,-122.39918,1932660,1681414,2183906,88,Chin (John Yehall) Elementary,Francisco Middle
+15067165,33 Front St,94111,San Francisco,CA,37.798249,-122.39918,1933344,1740010,2184679,88,Chin (John Yehall) Elementary,Francisco Middle
+15067189,170 Pacific Ave APT 4,94111,San Francisco,CA,37.798249,-122.39918,2133630,1856258,2475011,91,Chin (John Yehall) Elementary,Francisco Middle
+15067198,640 Davis St UNIT 8,94111,San Francisco,CA,37.79842,-122.39796,2202043,1849716,2444268,93,Chin (John Yehall) Elementary,Francisco Middle
+15067204,640 Davis St APT 14,94111,San Francisco,CA,37.79842,-122.39796,1245104,1133045,1382065,66,Chin (John Yehall) Elementary,Francisco Middle
+15067209,640 Davis St APT 19,94111,San Francisco,CA,37.79842,-122.39796,1740152,1426925,1983773,86,Chin (John Yehall) Elementary,Francisco Middle
+15067215,640 Davis St UNIT 25,94111,San Francisco,CA,37.79842,-122.39796,2030014,1705212,2314216,89,Chin (John Yehall) Elementary,Francisco Middle
+15067220,640 Davis St UNIT 30,94111,San Francisco,CA,37.79842,-122.39796,1240753,1129085,1364828,65,Chin (John Yehall) Elementary,Francisco Middle
+15067226,640 Davis St APT 36,94111,San Francisco,CA,37.79842,-122.39796,1649573,1319658,1979488,83,Chin (John Yehall) Elementary,Francisco Middle
+15067243,640 Davis St APT 1,94111,San Francisco,CA,37.79842,-122.39796,1982816,1744878,2240582,89,Chin (John Yehall) Elementary,Francisco Middle
+15067263,550 Davis St UNIT 16,94111,San Francisco,CA,37.79763,-122.3978,1669136,1301926,2036346,84,Chin (John Yehall) Elementary,Francisco Middle
+15067264,550 Davis St UNIT 17,94111,San Francisco,CA,37.79763,-122.3978,3832746,2951214,4445985,99,Chin (John Yehall) Elementary,Francisco Middle
+15067266,550 Davis St UNIT 19,94111,San Francisco,CA,37.79763,-122.3978,2117793,1800124,2477818,90,Chin (John Yehall) Elementary,Francisco Middle
+15067278,550 Davis St UNIT 33,94111,San Francisco,CA,37.79763,-122.3978,1658333,1310083,2006583,83,Chin (John Yehall) Elementary,Francisco Middle
+15067280,550 Davis St UNIT 35,94111,San Francisco,CA,37.79763,-122.3978,1084106,943172,1214199,57,Chin (John Yehall) Elementary,Francisco Middle
+15067289,550 Davis St UNIT 44,94111,San Francisco,CA,37.79763,-122.3978,1344616,1223601,1465631,72,Chin (John Yehall) Elementary,Francisco Middle
+15067291,550 Davis St UNIT 46,94111,San Francisco,CA,37.79763,-122.3978,1284932,1143589,1413425,70,Chin (John Yehall) Elementary,Francisco Middle
+15067295,550 Davis St UNIT 50,94111,San Francisco,CA,37.79763,-122.3978,1524522,1295844,1707465,81,Chin (John Yehall) Elementary,Francisco Middle
 15067331,1042-1044 Jackson St,94133,San Francisco,CA,37.795457,-122.412284,1620031,1377026,1895436,60,Gordon J. Lau Elementary,Marina Middle
 15067332,12 Auburn St,94133,San Francisco,CA,37.795552,-122.412304,811355,649084,941172,15,Gordon J. Lau Elementary,Marina Middle
 15067350,30 Auburn St,94133,San Francisco,CA,37.795734,-122.412294,1465958,1143447,1773809,54,Gordon J. Lau Elementary,Marina Middle
@@ -1949,16 +1949,16 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 15067524,1320 Taylor St,94108,San Francisco,CA,37.794695,-122.412735,1741544,1515143,1985360,77,Gordon J. Lau Elementary,Marina Middle
 15067530,1236-1240 Mason St,94108,San Francisco,CA,37.795034,-122.411163,1186082,996309,1447020,65,Gordon J. Lau Elementary,Marina Middle
 15067539,1114-1118 Powell St,94108,San Francisco,CA,37.795015,-122.409553,2215075,1727758,2702392,80,Gordon J. Lau Elementary,Marina Middle
-15067546,611 Washington St # 2101,94111,San Francisco,CA,37.795235,-122.403615,3864626,2318776,6376633,99,Chin Elementary,Francisco Middle
-15067547,611 Washington St # 2102,94111,San Francisco,CA,37.795235,-122.403615,3769687,3279628,4222049,98,Chin Elementary,Francisco Middle
-15067549,611 Washington St # 2104,94111,San Francisco,CA,37.795235,-122.403615,3799899,3153916,4293886,99,Chin Elementary,Francisco Middle
-15067556,611 Washington St # 2202,94111,San Francisco,CA,37.795235,-122.403615,1803405,1442724,2182120,86,Chin Elementary,Francisco Middle
-15067566,611 Washington St # 2306,94111,San Francisco,CA,37.795235,-122.403615,1093472,754496,1366840,58,Chin Elementary,Francisco Middle
-15067568,611 Washington St # 2402,94111,San Francisco,CA,37.795235,-122.403615,3767854,3202676,4408389,98,Chin Elementary,Francisco Middle
-15067570,611 Washington St # 2404,94111,San Francisco,CA,37.795235,-122.403615,2745429,2141435,3267061,96,Chin Elementary,Francisco Middle
-15067573,611 Washington St # 2502,94111,San Francisco,CA,37.795235,-122.403615,4171975,3587898,5006370,99,Chin Elementary,Francisco Middle
-15067576,611 Washington St # 2505,94111,San Francisco,CA,37.795235,-122.403615,1795504,1364583,2244380,86,Chin Elementary,Francisco Middle
-15067577,611 Washington St # 2601,94111,San Francisco,CA,37.795235,-122.403615,5071787,4158865,6136862,99,Chin Elementary,Francisco Middle
+15067546,611 Washington St # 2101,94111,San Francisco,CA,37.795235,-122.403615,3864626,2318776,6376633,99,Chin (John Yehall) Elementary,Francisco Middle
+15067547,611 Washington St # 2102,94111,San Francisco,CA,37.795235,-122.403615,3769687,3279628,4222049,98,Chin (John Yehall) Elementary,Francisco Middle
+15067549,611 Washington St # 2104,94111,San Francisco,CA,37.795235,-122.403615,3799899,3153916,4293886,99,Chin (John Yehall) Elementary,Francisco Middle
+15067556,611 Washington St # 2202,94111,San Francisco,CA,37.795235,-122.403615,1803405,1442724,2182120,86,Chin (John Yehall) Elementary,Francisco Middle
+15067566,611 Washington St # 2306,94111,San Francisco,CA,37.795235,-122.403615,1093472,754496,1366840,58,Chin (John Yehall) Elementary,Francisco Middle
+15067568,611 Washington St # 2402,94111,San Francisco,CA,37.795235,-122.403615,3767854,3202676,4408389,98,Chin (John Yehall) Elementary,Francisco Middle
+15067570,611 Washington St # 2404,94111,San Francisco,CA,37.795235,-122.403615,2745429,2141435,3267061,96,Chin (John Yehall) Elementary,Francisco Middle
+15067573,611 Washington St # 2502,94111,San Francisco,CA,37.795235,-122.403615,4171975,3587898,5006370,99,Chin (John Yehall) Elementary,Francisco Middle
+15067576,611 Washington St # 2505,94111,San Francisco,CA,37.795235,-122.403615,1795504,1364583,2244380,86,Chin (John Yehall) Elementary,Francisco Middle
+15067577,611 Washington St # 2601,94111,San Francisco,CA,37.795235,-122.403615,5071787,4158865,6136862,99,Chin (John Yehall) Elementary,Francisco Middle
 15067585,946 Stockton St APT 6D,94108,San Francisco,CA,37.794715,-122.40781,549560,461630,648481,18,Gordon J. Lau Elementary,Marina Middle
 15067588,946 Stockton St APT 7A,94108,San Francisco,CA,37.794715,-122.40781,781471,562659,1023727,45,Gordon J. Lau Elementary,Marina Middle
 15067594,946 Stockton St APT 8A,94108,San Francisco,CA,37.794715,-122.40781,573603,510507,648171,22,Gordon J. Lau Elementary,Marina Middle
@@ -2171,14 +2171,14 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 15069205,1252-1254 Bush St,94109,San Francisco,CA,37.789273,-122.417983,3115490,2492392,3645123,94,Redding Elementary,Marina Middle
 15069206,635 Mason St,94108,San Francisco,CA,37.789481,-122.410613,3573165,2787069,4252066,94,Redding Elementary,Marina Middle
 15069207,600 Sutter St # 4A,94102,San Francisco,CA,37.789268,-122.410491,770305,670165,870445,55,Redding Elementary,Marina Middle
-15069221,333 Bush St # 3701,94104,San Francisco,CA,37.79058,-122.40312,1430735,1216125,1602423,45,Chin Elementary,Francisco Middle
-15069225,333 Bush St APT 3705,94104,San Francisco,CA,37.79058,-122.40312,1819195,1528124,2055690,73,Chin Elementary,Francisco Middle
-15069230,333 Bush St APT 3802,94104,San Francisco,CA,37.79058,-122.40312,941643,838062,1045224,26,Chin Elementary,Francisco Middle
-15069233,333 Bush St APT 3805,94104,San Francisco,CA,37.79058,-122.40312,1597121,1405466,1852660,59,Chin Elementary,Francisco Middle
-15069237,333 Bush St APT 3901,94104,San Francisco,CA,37.79058,-122.40312,1431054,1216396,1602780,46,Chin Elementary,Francisco Middle
-15069244,333 Bush St APT 3908,94104,San Francisco,CA,37.79058,-122.40312,1496367,1361694,1646004,52,Chin Elementary,Francisco Middle
-15069255,333 Bush St APT 4105,94104,San Francisco,CA,37.79058,-122.40312,1458951,1283877,1619436,48,Chin Elementary,Francisco Middle
-15069258,333 Bush St APT 4202,94104,San Francisco,CA,37.79058,-122.40312,1257791,1119434,1383570,37,Chin Elementary,Francisco Middle
+15069221,333 Bush St # 3701,94104,San Francisco,CA,37.79058,-122.40312,1430735,1216125,1602423,45,Chin (John Yehall) Elementary,Francisco Middle
+15069225,333 Bush St APT 3705,94104,San Francisco,CA,37.79058,-122.40312,1819195,1528124,2055690,73,Chin (John Yehall) Elementary,Francisco Middle
+15069230,333 Bush St APT 3802,94104,San Francisco,CA,37.79058,-122.40312,941643,838062,1045224,26,Chin (John Yehall) Elementary,Francisco Middle
+15069233,333 Bush St APT 3805,94104,San Francisco,CA,37.79058,-122.40312,1597121,1405466,1852660,59,Chin (John Yehall) Elementary,Francisco Middle
+15069237,333 Bush St APT 3901,94104,San Francisco,CA,37.79058,-122.40312,1431054,1216396,1602780,46,Chin (John Yehall) Elementary,Francisco Middle
+15069244,333 Bush St APT 3908,94104,San Francisco,CA,37.79058,-122.40312,1496367,1361694,1646004,52,Chin (John Yehall) Elementary,Francisco Middle
+15069255,333 Bush St APT 4105,94104,San Francisco,CA,37.79058,-122.40312,1458951,1283877,1619436,48,Chin (John Yehall) Elementary,Francisco Middle
+15069258,333 Bush St APT 4202,94104,San Francisco,CA,37.79058,-122.40312,1257791,1119434,1383570,37,Chin (John Yehall) Elementary,Francisco Middle
 15069277,795 Sutter St # 401,94109,San Francisco,CA,37.788404,-122.41326,1345171,1197202,1546947,72,Redding Elementary,Marina Middle
 15069279,795 Sutter St # 403,94109,San Francisco,CA,37.788404,-122.41326,1188869,1069982,1414754,65,Redding Elementary,Marina Middle
 15069289,921-925 Post St,94109,San Francisco,CA,37.787025,-122.417045,2316161,1806606,2802555,87,Redding Elementary,Marina Middle
@@ -12955,7 +12955,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 2111569331,4399 23rd St,94114,San Francisco,CA,37.75246,-122.4397,795820,628698,1010691,0,Alvarado Elementary,James Lick Middle
 2111569333,188 Beulah St APT 2,94117,San Francisco,CA,37.76751,-122.45234,893801,759731,1072561,0,Grattan Elementary,A. P. Giannini Middle
 2111656320,471 7th Ave,94118,San Francisco,CA,37.779586,-122.465583,2059565,1730035,2450882,0,Frank McCoppin Elementary,Roosevelt Middle
-2111679739,382 Green St APT 6,94133,San Francisco,CA,37.800086,-122.405609,533444,485434,560116,0,Chin Elementary,Francisco Middle
+2111679739,382 Green St APT 6,94133,San Francisco,CA,37.800086,-122.405609,533444,485434,560116,0,Chin (John Yehall) Elementary,Francisco Middle
 2111723472,380 14th St APT 203,94103,San Francisco,CA,37.76822,-122.421779,496964,462177,556600,0,Sanchez Elementary,Everett Middle
 2111737172,1880 Bush St,94109,San Francisco,CA,37.78786,-122.42771,906182,797440,1033047,0,Sherman Elementary,Marina Middle
 2111767902,634 Miramar Ave,94112,San Francisco,CA,37.72852,-122.45805,800906,664752,961087,0,Commodore Sloat Elementary,Aptos Middle
@@ -12968,7 +12968,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 2112001185,933 Clement St,94118,San Francisco,CA,37.78263,-122.46923,3268549,2647525,4053001,0,Sutro Elementary,Roosevelt Middle
 2112002019,208 Surrey St,94131,San Francisco,CA,37.735819,-122.435393,1259818,1045649,1448791,0,Glen Park Elementary,James Lick Middle
 2112025184,190 Cervantes Blvd,94123,San Francisco,CA,37.80493,-122.44061,740778,644477,837079,0,Sherman Elementary,Marina Middle
-2112169423,170 Pacific Ave APT 41,94111,San Francisco,CA,37.797916,-122.399313,1321241,1202329,1453365,0,Chin Elementary,Francisco Middle
+2112169423,170 Pacific Ave APT 41,94111,San Francisco,CA,37.797916,-122.399313,1321241,1202329,1453365,0,Chin (John Yehall) Elementary,Francisco Middle
 2112210605,17 Curtis St,94112,San Francisco,CA,37.71404,-122.43976,556979,467862,646096,0,Guadalupe Elementary,Visitacion Valley Middle
 2112231968,991 Hollister Ave,94124,San Francisco,CA,37.71841,-122.39028,838533,595358,1148790,0,Bret Harte Elementary,James Lick Middle
 2112236314,4108 17th St APT 4,94114,San Francisco,CA,37.762634,-122.437591,700954,630859,799088,0,Mckinley Elementary,Everett Middle
@@ -13114,7 +13114,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 2127838088,1335 Union St APT 4,94109,San Francisco,CA,37.79892,-122.42051,866416,771110,961722,0,Yick Wo Elementary,Francisco Middle
 2128243158,821 Taraval St # A,94116,San Francisco,CA,37.74297,-122.47513,761939,670506,853372,0,West Portal Elementary,Herbert Hoover Middle
 2128383916,821 Taraval St # D,94116,San Francisco,CA,37.74297,-122.47513,696472,592001,814872,0,West Portal Elementary,Herbert Hoover Middle
-2128503695,34 Varennes St,94133,San Francisco,CA,37.80029,-122.40661,961509,711517,1192271,0,Chin Elementary,Francisco Middle
+2128503695,34 Varennes St,94133,San Francisco,CA,37.80029,-122.40661,961509,711517,1192271,0,Chin (John Yehall) Elementary,Francisco Middle
 2129553871,1145 Hyde St,94109,San Francisco,CA,37.79146,-122.41996,2828214,2008032,3761525,0,Spring Valley Elementary,Marina Middle
 2129642647,570 Guerrero St APT 4,94110,San Francisco,CA,37.76396,-122.42418,632613,468134,809745,0,Sanchez Elementary,Everett Middle
 2129713103,3508 24th St,94110,San Francisco,CA,37.752161,-122.421929,1173025,868038,1419360,0,Cesar Chavez Elementary,Everett Middle
@@ -13197,7 +13197,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 2146672923,795 Le Conte Ave,94124,San Francisco,CA,37.716915,-122.396472,871800,627696,1107186,0,Bret Harte Elementary,James Lick Middle
 2146682756,1551 Filbert St APT 4,94123,San Francisco,CA,37.799043,-122.425163,844735,777156,937656,0,Sherman Elementary,Marina Middle
 2146740367,576-580 Page St,94117,san francisco,CA,37.773217,-122.430344,2707649,2030737,3357485,0,John Muir Elementary,James Lick Middle
-2146819352,733 Front St UNIT 506,94111,San Francisco,CA,37.798082,-122.399799,1698603,1392854,1987366,0,Chin Elementary,Francisco Middle
+2146819352,733 Front St UNIT 506,94111,San Francisco,CA,37.798082,-122.399799,1698603,1392854,1987366,0,Chin (John Yehall) Elementary,Francisco Middle
 2146913067,555 4th St UNIT 307,94107,San Francisco,CA,37.778919,-122.397138,894758,760544,1011077,0,Daniel Webster Elementary,
 2146916571,25 Sierra St APT W101,94107,San Francisco,CA,37.75823,-122.395452,1339545,1098427,1594059,0,Starr King Elementary,Aptos Middle
 2146922570,199 Tiffany Ave APT 305,94110,San Francisco,CA,37.74412,-122.42176,730294,620750,832535,0,Leonard R. Flynn Elementary,James Lick Middle
@@ -13656,9 +13656,9 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 59747062,239 Brannan St UNIT 18C,94107,San Francisco,CA,37.782575,-122.390364,1411040,1241715,1580365,88,Daniel Webster Elementary,
 59747348,1679 19th Ave,94122,San Francisco,CA,37.756376,-122.476913,653061,561632,757551,3,Jefferson Elementary,A. P. Giannini Middle
 59779137,445 Francisco St APT 502,94133,San Francisco,CA,37.804338,-122.412444,1256450,1118240,1444917,43,Garfield Elementary,Francisco Middle
-59779155,382 Green St APT 1,94133,San Francisco,CA,37.800085,-122.405615,547166,508864,585468,1,Chin Elementary,Francisco Middle
-59779156,382 Green St APT 2,94133,San Francisco,CA,37.800085,-122.405615,571475,514328,640052,2,Chin Elementary,Francisco Middle
-59779159,382 Green St APT 5,94133,San Francisco,CA,37.800085,-122.405615,580297,499055,655736,2,Chin Elementary,Francisco Middle
+59779155,382 Green St APT 1,94133,San Francisco,CA,37.800085,-122.405615,547166,508864,585468,1,Chin (John Yehall) Elementary,Francisco Middle
+59779156,382 Green St APT 2,94133,San Francisco,CA,37.800085,-122.405615,571475,514328,640052,2,Chin (John Yehall) Elementary,Francisco Middle
+59779159,382 Green St APT 5,94133,San Francisco,CA,37.800085,-122.405615,580297,499055,655736,2,Chin (John Yehall) Elementary,Francisco Middle
 59779163,955 Green St UNIT 4,94133,San Francisco,CA,37.7985,-122.414795,6769539,4941764,9612745,99,Yick Wo Elementary,Francisco Middle
 59779173,1143 Leavenworth St,94109,San Francisco,CA,37.79182,-122.4161,861880,767073,948068,42,Spring Valley Elementary,Marina Middle
 59779193,1175-1177 Bay St #1,94123,San Francisco,CA,37.803773,-122.426383,1208555,1039357,1341496,20,Sherman Elementary,Marina Middle
@@ -13939,8 +13939,8 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 63196109,1750 Taylor St APT 1303,94133,San Francisco,CA,37.798607,-122.413205,2169502,1670517,2733573,74,Yick Wo Elementary,Francisco Middle
 63196122,1750 Taylor St APT 1801,94133,San Francisco,CA,37.798607,-122.413205,5126330,3742221,5997806,98,Yick Wo Elementary,Francisco Middle
 63196124,1750 Taylor St APT 1803,94133,San Francisco,CA,37.798607,-122.413205,3006742,2405394,3818562,89,Yick Wo Elementary,Francisco Middle
-63196142,464 Vallejo St,94133,San Francisco,CA,37.799319,-122.405227,559571,447657,665889,1,Chin Elementary,Francisco Middle
-63196145,21 Fresno St,94133,San Francisco,CA,37.798529,-122.405996,827591,695176,918626,15,Chin Elementary,Francisco Middle
+63196142,464 Vallejo St,94133,San Francisco,CA,37.799319,-122.405227,559571,447657,665889,1,Chin (John Yehall) Elementary,Francisco Middle
+63196145,21 Fresno St,94133,San Francisco,CA,37.798529,-122.405996,827591,695176,918626,15,Chin (John Yehall) Elementary,Francisco Middle
 63196150,1434 Taylor St,94133,San Francisco,CA,37.795723,-122.412906,2184155,1725482,2620986,75,Gordon J. Lau Elementary,Marina Middle
 63196159,1333 Jones St APT 406,94109,San Francisco,CA,,,1433584,1204211,1734637,74,Spring Valley Elementary,Marina Middle
 63196233,1333 Jones St APT 1110,94109,San Francisco,CA,,,2288233,1944998,2745880,86,Spring Valley Elementary,Marina Middle
@@ -14336,7 +14336,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 64973039,255 Berry St APT 706,94158,San Francisco,CA,37.774185,-122.394749,1021194,908863,1153949,59,Daniel Webster Elementary,
 65235148,1920 Quint St,94124,San Francisco,CA,37.733789,-122.399858,692857,595857,769071,89,Drew Elementary,A. P. Giannini Middle
 65393208,855 Goettingen St,94134,San Francisco,CA,37.72147,-122.404025,649158,551784,740040,65,Edward R. Taylor Elementary,King Middle
-66663316,550 Davis St APT 25,94111,San Francisco,CA,37.79763,-122.3978,2437589,2096327,2876355,94,Chin Elementary,Francisco Middle
+66663316,550 Davis St APT 25,94111,San Francisco,CA,37.79763,-122.3978,2437589,2096327,2876355,94,Chin (John Yehall) Elementary,Francisco Middle
 67090194,400 Beale St APT 805,94105,San Francisco,CA,37.78691,-122.390925,696789,641046,773436,17,Daniel Webster Elementary,
 67090195,400 Beale St APT 1005,94105,San Francisco,CA,37.78691,-122.390925,696466,640749,773077,17,Daniel Webster Elementary,
 67090197,400 Beale St APT 313,94105,San Francisco,CA,37.78691,-122.390925,724462,637527,804153,21,Daniel Webster Elementary,
@@ -14518,9 +14518,9 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 69817956,767 Bryant St APT 406,94107,San Francisco,CA,37.776354,-122.40157,596247,548547,661834,11,Daniel Webster Elementary,
 69817960,767 Bryant St # 410,94107,San Francisco,CA,37.776354,-122.40157,749858,674872,847340,32,Daniel Webster Elementary,
 69818863,866 Union St,94133,San Francisco,CA,37.800098,-122.413557,1303485,1081893,1525077,46,Yick Wo Elementary,Francisco Middle
-69818867,402 Vallejo St,94133,San Francisco,CA,37.799289,-122.404285,814748,733273,912518,15,Chin Elementary,Francisco Middle
-69818871,410 Vallejo St,94133,San Francisco,CA,37.79929,-122.404286,690666,587066,759733,9,Chin Elementary,Francisco Middle
-69818873,350 Jackson St APT 202,94111,San Francisco,CA,,,1493877,1299673,1703020,79,Chin Elementary,Francisco Middle
+69818867,402 Vallejo St,94133,San Francisco,CA,37.799289,-122.404285,814748,733273,912518,15,Chin (John Yehall) Elementary,Francisco Middle
+69818871,410 Vallejo St,94133,San Francisco,CA,37.79929,-122.404286,690666,587066,759733,9,Chin (John Yehall) Elementary,Francisco Middle
+69818873,350 Jackson St APT 202,94111,San Francisco,CA,,,1493877,1299673,1703020,79,Chin (John Yehall) Elementary,Francisco Middle
 69818880,939 Jackson St APT 201,94133,San Francisco,CA,37.795282,-122.410501,1105579,784961,1503587,35,Gordon J. Lau Elementary,Marina Middle
 69818881,939 Jackson St APT 202,94133,San Francisco,CA,37.795282,-122.410501,986122,867787,1114318,27,Gordon J. Lau Elementary,Marina Middle
 69818883,939 Jackson St APT 301,94133,San Francisco,CA,37.795282,-122.410501,1099244,769471,1472987,35,Gordon J. Lau Elementary,Marina Middle
@@ -14955,7 +14955,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 79844336,520 Chestnut St # 402,94133,San Francisco,CA,,,1154352,969656,1385222,38,Garfield Elementary,Francisco Middle
 79844397,1308 6th Ave,94122,San Francisco,CA,37.76398,-122.462802,937117,834034,1049571,62,Grattan Elementary,A. P. Giannini Middle
 79844403,350 Broderick St APT 322,94117,San Francisco,CA,,,826443,702477,925616,16,New Traditions Elementary,Roosevelt Middle
-79844405,201 Sansome St UNIT 201,94104,San Francisco,CA,,,692560,630230,754890,14,Chin Elementary,Francisco Middle
+79844405,201 Sansome St UNIT 201,94104,San Francisco,CA,,,692560,630230,754890,14,Chin (John Yehall) Elementary,Francisco Middle
 79844427,555 4th St UNIT 814,94107,San Francisco,CA,,,607538,558935,662216,12,Daniel Webster Elementary,
 79844428,2072 Golden Gate Ave,94115,San Francisco,CA,,,1320648,1096138,1465919,54,New Traditions Elementary,Roosevelt Middle
 79844434,350 Broderick St APT 307,94117,San Francisco,CA,,,652426,580659,730717,5,New Traditions Elementary,Roosevelt Middle
@@ -14963,7 +14963,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 79844449,109 Duncan St,94110,San Francisco,CA,,,908930,790769,1018002,36,Alvarado Elementary,James Lick Middle
 79844469,695 Arkansas St,94107,San Francisco,CA,37.757537,-122.397607,3182443,2355008,3882580,99,Starr King Elementary,Aptos Middle
 79844499,555 4th St UNIT 102,94107,San Francisco,CA,37.779651,-122.395477,420068,352857,474677,3,Daniel Webster Elementary,
-79844503,201 Sansome St UNIT 1101,94104,San Francisco,CA,,,976483,878835,1093661,29,Chin Elementary,Francisco Middle
+79844503,201 Sansome St UNIT 1101,94104,San Francisco,CA,,,976483,878835,1093661,29,Chin (John Yehall) Elementary,Francisco Middle
 79844525,4343 3rd St APT 405,94124,San Francisco,CA,37.738093,-122.389208,575536,471940,673377,68,George Washington Carver Elementary,Aptos Middle
 79844546,235 Berry St APT 416,94158,San Francisco,CA,37.774703,-122.394089,1410610,1269549,1565777,88,Daniel Webster Elementary,
 79844589,4140 20th St,94114,San Francisco,CA,37.757984,-122.433466,1296572,1115052,1439195,40,Harvey Milk Civil Rights Elementary,Everett Middle
@@ -15014,7 +15014,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 79845457,324 Arguello Blvd APT 1,94118,San Francisco,CA,37.785113,-122.45877,913420,803810,1013896,14,George Peabody Elementary,Roosevelt Middle
 79845462,368 Elm St APT 405,94102,San Francisco,CA,,,876315,788684,937657,67,Rosa Parks Elementary,Presidio Middle
 79845470,368 Elm St APT 404,94102,San Francisco,CA,,,578011,514430,641592,30,Rosa Parks Elementary,Presidio Middle
-79845506,201 Sansome St UNIT 603,94104,San Francisco,CA,,,689353,627311,751395,12,Chin Elementary,Francisco Middle
+79845506,201 Sansome St UNIT 603,94104,San Francisco,CA,,,689353,627311,751395,12,Chin (John Yehall) Elementary,Francisco Middle
 79845509,301 Crescent Ct APT 3417,94134,San Francisco,CA,,,371607,341878,423632,0,Bret Harte Elementary,James Lick Middle
 79845516,555 4th St UNIT 832,94107,San Francisco,CA,37.779422,-122.396712,513933,467679,575605,6,Daniel Webster Elementary,
 79845520,555 4th St UNIT 404,94107,San Francisco,CA,37.779422,-122.396712,877103,806935,956042,49,Daniel Webster Elementary,
@@ -15043,7 +15043,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 79845999,1275 Union St,94109,San Francisco,CA,,,1040783,905481,1176085,57,Yick Wo Elementary,Francisco Middle
 79846021,835 Dolores St,94110,San Francisco,CA,37.756111,-122.425152,1117831,972513,1218436,69,Harvey Milk Civil Rights Elementary,Everett Middle
 79846024,25 Sierra St # 305,94107,San Francisco,CA,,,697287,620585,801880,25,Starr King Elementary,Aptos Middle
-79846034,201 Sansome St UNIT 1004,94104,San Francisco,CA,37.792255,-122.401245,1670820,1336656,1971568,66,Chin Elementary,Francisco Middle
+79846034,201 Sansome St UNIT 1004,94104,San Francisco,CA,37.792255,-122.401245,1670820,1336656,1971568,66,Chin (John Yehall) Elementary,Francisco Middle
 79846056,501 Crescent Way APT 5101,94134,San Francisco,CA,37.711915,-122.388527,374237,344298,430373,1,Bret Harte Elementary,James Lick Middle
 79846065,1370 Valencia St APT 4,94110,San Francisco,CA,37.750943,-122.420844,827365,694987,934922,23,Cesar Chavez Elementary,Everett Middle
 79846071,555 4th St UNIT 614,94107,San Francisco,CA,37.779422,-122.396712,547922,493130,613673,8,Daniel Webster Elementary,
@@ -15061,8 +15061,8 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 79846298,235 Berry St APT 309,94158,San Francisco,CA,37.774703,-122.394089,844214,751350,1055268,34,Daniel Webster Elementary,
 79846305,1131 Church St,94114,San Francisco,CA,,,883811,768916,981030,13,Alvarado Elementary,James Lick Middle
 79846315,8 Landers St UNIT 404,94114,San Francisco,CA,,,900990,774851,1036138,14,Sanchez Elementary,Everett Middle
-79846335,201 Sansome St UNIT 604,94104,San Francisco,CA,,,857082,719949,942790,20,Chin Elementary,Francisco Middle
-79846343,201 Sansome St UNIT 701,94104,San Francisco,CA,37.792257,-122.401244,686876,631926,755564,11,Chin Elementary,Francisco Middle
+79846335,201 Sansome St UNIT 604,94104,San Francisco,CA,,,857082,719949,942790,20,Chin (John Yehall) Elementary,Francisco Middle
+79846343,201 Sansome St UNIT 701,94104,San Francisco,CA,37.792257,-122.401244,686876,631926,755564,11,Chin (John Yehall) Elementary,Francisco Middle
 79846355,555 4th St UNIT 436,94107,San Francisco,CA,,,503864,433323,554250,6,Daniel Webster Elementary,
 79846405,83 Mcallister St APT 107,94102,San Francisco,CA,,,455762,369167,546914,15,Tenderloin Elementary,Francisco Middle
 79846419,483 Harkness Ave,94134,San Francisco,CA,37.718179,-122.406703,702019,631817,786261,82,El Dorado Elementary,Visitacion Valley Middle
@@ -15121,7 +15121,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 79847539,2218 15th St,94114,San Francisco,CA,,,1252766,1127489,1378043,37,Mckinley Elementary,Everett Middle
 79847557,555 4th St UNIT 705,94107,San Francisco,CA,37.779422,-122.396712,690548,642210,731981,24,Daniel Webster Elementary,
 79847567,2147 Greenwich St,94123,San Francisco,CA,,,1004051,803241,1255064,14,Sherman Elementary,Marina Middle
-79847583,201 Sansome St UNIT 1105,94104,San Francisco,CA,,,524190,471771,566125,4,Chin Elementary,Francisco Middle
+79847583,201 Sansome St UNIT 1105,94104,San Francisco,CA,,,524190,471771,566125,4,Chin (John Yehall) Elementary,Francisco Middle
 79847598,350 Broderick St APT 219,94117,San Francisco,CA,,,560146,436914,688980,1,New Traditions Elementary,Roosevelt Middle
 79847605,12 Chattanooga St # B,94114,San Francisco,CA,37.756067,-122.427035,860752,766069,938220,11,Harvey Milk Civil Rights Elementary,Everett Middle
 79847607,988 Fulton St APT 336,94117,San Francisco,CA,,,410351,320074,492421,0,John Muir Elementary,James Lick Middle
@@ -15571,14 +15571,14 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 80752301,855 Folsom St APT 340,94107,San Francisco,CA,37.780767,-122.402142,906370,752287,1078580,52,Daniel Webster Elementary,
 80752303,1047 Mississippi St APT 2,94107,San Francisco,CA,37.753164,-122.393373,784113,713543,878207,37,Starr King Elementary,Aptos Middle
 80752366,180 Carl St,94117,San Francisco,CA,37.765808,-122.452141,2095380,1718212,2409687,88,Grattan Elementary,A. P. Giannini Middle
-80752369,350 Jackson St APT 303,94111,San Francisco,CA,37.796802,-122.40153,1849839,1498370,2182810,87,Chin Elementary,Francisco Middle
+80752369,350 Jackson St APT 303,94111,San Francisco,CA,37.796802,-122.40153,1849839,1498370,2182810,87,Chin (John Yehall) Elementary,Francisco Middle
 80752462,200 Townsend St UNIT 6,94107,San Francisco,CA,,,900802,792706,1026914,52,Daniel Webster Elementary,
 80752478,855 Folsom St APT 921,94107,San Francisco,CA,37.780767,-122.402142,986775,819023,1144659,60,Daniel Webster Elementary,
 80752551,400 Beale St APT 2305,94105,San Francisco,CA,,,1050618,872013,1239729,54,Daniel Webster Elementary,
 80752569,300 Beale St APT 503,94105,San Francisco,CA,,,683688,615319,820426,15,Daniel Webster Elementary,
 80752640,2001 Mcallister St APT 150,94118,San Francisco,CA,,,795134,715621,850793,8,New Traditions Elementary,Roosevelt Middle
 80752645,1011 23rd St APT 5,94107,San Francisco,CA,,,647788,576531,744956,17,Starr King Elementary,Aptos Middle
-80752673,350 Jackson St APT 401,94111,San Francisco,CA,37.796802,-122.40153,2303485,1865823,2649008,93,Chin Elementary,Francisco Middle
+80752673,350 Jackson St APT 401,94111,San Francisco,CA,37.796802,-122.40153,2303485,1865823,2649008,93,Chin (John Yehall) Elementary,Francisco Middle
 80752693,855 Folsom St APT 312,94107,San Francisco,CA,37.780767,-122.402142,727300,647297,778211,29,Daniel Webster Elementary,
 80752705,370 De Haro St # B11,94103,San Francisco,CA,,,749317,651906,831742,42,Daniel Webster Elementary,
 80752800,475 Hampshire St APT 6,94110,San Francisco,CA,37.763439,-122.408107,1068479,918892,1218066,62,George R. Moscone Elementary,Herbert Hoover Middle
@@ -15656,8 +15656,8 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 80756498,1601 Pacific Ave APT 401,94109,San Francisco,CA,37.794777,-122.421794,1121514,942072,1256096,61,Spring Valley Elementary,Marina Middle
 80756642,388 Townsend St # T17,94107,San Francisco,CA,,,772083,694875,833850,35,Daniel Webster Elementary,
 82785232,58 Allen St,94109,San Francisco,CA,,,893503,768413,1036463,45,Yick Wo Elementary,Francisco Middle
-82785235,733 Front St UNIT 201,94111,San Francisco,CA,,,870483,757320,1001055,35,Chin Elementary,Francisco Middle
-82785236,733 Front St UNIT 202,94111,San Francisco,CA,,,1254143,1153812,1379557,67,Chin Elementary,Francisco Middle
+82785235,733 Front St UNIT 201,94111,San Francisco,CA,,,870483,757320,1001055,35,Chin (John Yehall) Elementary,Francisco Middle
+82785236,733 Front St UNIT 202,94111,San Francisco,CA,,,1254143,1153812,1379557,67,Chin (John Yehall) Elementary,Francisco Middle
 82785241,725 Pine St APT 104,94108,San Francisco,CA,,,406009,324807,475031,0,Gordon J. Lau Elementary,Marina Middle
 82785288,129 Retiro Way,94123,San Francisco,CA,37.805747,-122.438247,2289571,1969031,2678798,59,Sherman Elementary,Marina Middle
 82785299,2298 Lombard St,94123,San Francisco,CA,,,1239285,1065785,1387999,21,Sherman Elementary,Marina Middle
@@ -16010,7 +16010,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89219882,446 Hearst Ave,94112,San Francisco,CA,37.730945,-122.447679,513784,359649,678195,8,Sunnyside Elementary,James Denman Middle
 89228820,338 Spear St UNIT 10C,94105,San Francisco,CA,37.789533,-122.390371,923079,840002,1006156,44,Daniel Webster Elementary,
 89230173,841 25th Ave,94121,San Francisco,CA,37.773644,-122.484599,1019172,876488,1161856,45,Argonne Elementary,Presidio Middle
-89236510,690 Market St UNIT 1803,94104,San Francisco,CA,,,1670485,1520141,1887648,66,Chin Elementary,Francisco Middle
+89236510,690 Market St UNIT 1803,94104,San Francisco,CA,,,1670485,1520141,1887648,66,Chin (John Yehall) Elementary,Francisco Middle
 89236521,2401 44th Ave UNIT 4,94116,San Francisco,CA,,,703832,626410,781254,16,Ulloa Elementary,Herbert Hoover Middle
 89236524,24 Magnolia St,94123,San Francisco,CA,37.801059,-122.431705,1255044,1091888,1405649,22,Sherman Elementary,Marina Middle
 89236533,301 Main St # T16D,94105,San Francisco,CA,,,1578624,1404975,1862776,80,Daniel Webster Elementary,
@@ -16022,7 +16022,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89236589,425 1st St UNIT 5802,94105,San Francisco,CA,,,1949305,1637416,2183222,88,Daniel Webster Elementary,
 89236590,29 Oakwood St APT 20,94110,San Francisco,CA,,,1138901,922510,1321125,72,Harvey Milk Civil Rights Elementary,Everett Middle
 89236607,631 Folsom St APT 4A,94107,San Francisco,CA,37.784713,-122.396873,1084192,921563,1192611,67,Daniel Webster Elementary,
-89236621,690 Market St UNIT 2204,94104,San Francisco,CA,,,1618294,1375550,1828672,60,Chin Elementary,Francisco Middle
+89236621,690 Market St UNIT 2204,94104,San Francisco,CA,,,1618294,1375550,1828672,60,Chin (John Yehall) Elementary,Francisco Middle
 89236631,338 Spear St UNIT 24D,94105,San Francisco,CA,,,1511090,1239094,1798197,78,Daniel Webster Elementary,
 89236640,425 1st St UNIT 903,94105,San Francisco,CA,,,675788,594693,763640,14,Daniel Webster Elementary,
 89236646,418 Jessie St APT 403A,94103,San Francisco,CA,,,661363,601840,734113,27,Daniel Webster Elementary,
@@ -16032,7 +16032,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89236686,46 Atalaya Ter,94117,San Francisco,CA,37.775972,-122.447284,1197376,1029743,1376982,43,New Traditions Elementary,Roosevelt Middle
 89236708,301 Main St # T20C,94105,San Francisco,CA,,,806657,717925,903456,32,Daniel Webster Elementary,
 89236740,329 Bay St APT 202,94133,San Francisco,CA,37.805477,-122.412653,612690,557548,686213,4,Garfield Elementary,Francisco Middle
-89236741,733 Front St UNIT 705,94111,San Francisco,CA,,,721091,627349,793200,19,Chin Elementary,Francisco Middle
+89236741,733 Front St UNIT 705,94111,San Francisco,CA,,,721091,627349,793200,19,Chin (John Yehall) Elementary,Francisco Middle
 89236750,425 1st St UNIT 5404,94105,San Francisco,CA,,,1526934,1267355,1771243,79,Daniel Webster Elementary,
 89236752,300 Berry St UNIT 446,94158,San Francisco,CA,,,1024693,870989,1157903,59,Daniel Webster Elementary,
 89236760,301 Main St # T20F,94105,San Francisco,CA,,,1473013,1325712,1620314,77,Daniel Webster Elementary,
@@ -16043,12 +16043,12 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89236781,451 Kansas St UNIT 376,94107,San Francisco,CA,37.764066,-122.403277,775513,697962,860819,36,Daniel Webster Elementary,
 89236816,469 Tehama St APT 6,94103,San Francisco,CA,37.779786,-122.405738,468874,407920,520450,5,Daniel Webster Elementary,
 89236822,325 China Basin St UNIT 206,94158,San Francisco,CA,,,1070278,899034,1241522,66,Daniel Webster Elementary,
-89236825,733 Front St UNIT 414,94111,San Francisco,CA,,,807361,726625,904244,27,Chin Elementary,Francisco Middle
+89236825,733 Front St UNIT 414,94111,San Francisco,CA,,,807361,726625,904244,27,Chin (John Yehall) Elementary,Francisco Middle
 89236833,4622 18th St,94114,San Francisco,CA,37.760688,-122.441596,1226596,1079404,1398319,34,Harvey Milk Civil Rights Elementary,Everett Middle
 89236835,325 China Basin St UNIT 207,94158,San Francisco,CA,,,1595980,1372543,1771538,95,Daniel Webster Elementary,
 89236840,901 Bush St APT 204,94109,San Francisco,CA,,,426619,366892,465015,2,Redding Elementary,Marina Middle
 89236841,427 Carl St,94117,San Francisco,CA,37.764693,-122.456207,1109845,943368,1287420,37,Grattan Elementary,A. P. Giannini Middle
-89236843,690 Market St UNIT 1604,94104,San Francisco,CA,,,3403899,2893314,4050640,93,Chin Elementary,Francisco Middle
+89236843,690 Market St UNIT 1604,94104,San Francisco,CA,,,3403899,2893314,4050640,93,Chin (John Yehall) Elementary,Francisco Middle
 89236852,123 3rd Ave,94118,San Francisco,CA,37.786317,-122.461769,1734852,1439927,1977731,71,Sutro Elementary,Roosevelt Middle
 89236867,1122 Stanyan St,94117,San Francisco,CA,,,1044102,856164,1190276,32,Grattan Elementary,A. P. Giannini Middle
 89236878,451 Kansas St UNIT 529,94107,San Francisco,CA,,,803388,706981,859625,40,Daniel Webster Elementary,
@@ -16063,7 +16063,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89236996,333 Main St # IT5L,94105,San Francisco,CA,,,800286,728260,888317,31,Daniel Webster Elementary,
 89236999,300 Spear St # IT7G,94105,San Francisco,CA,,,843443,598845,1088041,36,Daniel Webster Elementary,
 89237004,338 Spear St UNIT 6B,94105,San Francisco,CA,,,1395832,1214374,1577290,74,Daniel Webster Elementary,
-89237011,690 Market St UNIT 2104,94104,San Francisco,CA,,,5002638,4152189,5452875,99,Chin Elementary,Francisco Middle
+89237011,690 Market St UNIT 2104,94104,San Francisco,CA,,,5002638,4152189,5452875,99,Chin (John Yehall) Elementary,Francisco Middle
 89237013,425 1st St UNIT 4001,94105,San Francisco,CA,,,910820,792413,974577,43,Daniel Webster Elementary,
 89237050,318 Spear St # IT3J,94105,San Francisco,CA,,,854982,769484,914831,37,Daniel Webster Elementary,
 89237060,291 Page St,94102,San Francisco,CA,37.773511,-122.425403,1382942,1189330,1728678,92,John Muir Elementary,James Lick Middle
@@ -16080,16 +16080,16 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89237138,83 Mcallister St APT 312,94102,San Francisco,CA,,,391611,336785,438604,5,Tenderloin Elementary,Francisco Middle
 89237144,301 Main St # T24A,94105,San Francisco,CA,,,1286131,1144657,1363299,70,Daniel Webster Elementary,
 89237147,83 Mcallister St # 202,94102,San Francisco,CA,37.7807,-122.41327,342803,298239,390795,0,Tenderloin Elementary,Francisco Middle
-89237148,690 Market St UNIT 2005,94104,San Francisco,CA,37.788246,-122.403228,936838,796312,1086732,25,Chin Elementary,Francisco Middle
+89237148,690 Market St UNIT 2005,94104,San Francisco,CA,37.788246,-122.403228,936838,796312,1086732,25,Chin (John Yehall) Elementary,Francisco Middle
 89237165,4400 19th St APT 1,94114,San Francisco,CA,37.759199,-122.438365,868983,643047,1103608,12,Harvey Milk Civil Rights Elementary,Everett Middle
 89237178,1730 Fell St,94117,San Francisco,CA,37.773202,-122.446613,983018,845395,1130471,28,New Traditions Elementary,Roosevelt Middle
 89237182,615 Noe St # 1,94114,San Francisco,CA,,,1169923,912540,1345411,30,Harvey Milk Civil Rights Elementary,Everett Middle
 89237205,333 Main St # IT8C,94105,San Francisco,CA,,,1631232,1484421,1810668,82,Daniel Webster Elementary,
 89237223,425 1st St UNIT 5008,94105,San Francisco,CA,,,865034,795831,934237,38,Daniel Webster Elementary,
 89237229,888 7th St UNIT 315,94107,San Francisco,CA,,,319908,303913,361496,0,Daniel Webster Elementary,
-89237231,690 Market St UNIT 1804,94104,San Francisco,CA,,,4617938,3971427,5033552,98,Chin Elementary,Francisco Middle
+89237231,690 Market St UNIT 1804,94104,San Francisco,CA,,,4617938,3971427,5033552,98,Chin (John Yehall) Elementary,Francisco Middle
 89237232,3024 Market St,94114,San Francisco,CA,37.761279,-122.441649,989867,841387,1138347,18,Mckinley Elementary,Everett Middle
-89237242,690 Market St UNIT 2304,94104,San Francisco,CA,37.787844,-122.403456,3184810,2388607,4299494,90,Chin Elementary,Francisco Middle
+89237242,690 Market St UNIT 2304,94104,San Francisco,CA,37.787844,-122.403456,3184810,2388607,4299494,90,Chin (John Yehall) Elementary,Francisco Middle
 89237246,1376 Alabama St,94110,San Francisco,CA,,,890366,756811,1015017,32,Cesar Chavez Elementary,Everett Middle
 89237270,51 States St # A,94114,San Francisco,CA,,,1238543,1065147,1387168,35,Mckinley Elementary,Everett Middle
 89237276,631 Folsom St APT 16B,94107,San Francisco,CA,,,1046806,889785,1151487,64,Daniel Webster Elementary,
@@ -16102,7 +16102,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89237324,938-940 Market St,94102,San Francisco,CA,,,646387,562357,717490,38,Redding Elementary,Marina Middle
 89237326,301 Main St # T26G,94105,San Francisco,CA,,,900323,819294,972349,42,Daniel Webster Elementary,
 89237329,425 1st St UNIT 5304,94105,San Francisco,CA,,,3176171,2255081,3938452,96,Daniel Webster Elementary,
-89237349,690 Market St UNIT 1503,94104,San Francisco,CA,,,2187696,1990803,2515850,83,Chin Elementary,Francisco Middle
+89237349,690 Market St UNIT 1503,94104,San Francisco,CA,,,2187696,1990803,2515850,83,Chin (John Yehall) Elementary,Francisco Middle
 89237355,880 Peru Ave,94112,San Francisco,CA,37.724113,-122.423183,1147961,838012,1354594,99,Hillcrest Elementary,King Middle
 89237356,338 Spear St UNIT 4A,94105,San Francisco,CA,37.789488,-122.390502,1203370,1083033,1347774,64,Daniel Webster Elementary,
 89237365,451 Kansas St UNIT 645,94107,San Francisco,CA,,,684601,595603,739369,23,Daniel Webster Elementary,
@@ -16116,7 +16116,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89237480,451 Kansas St UNIT 272,94107,San Francisco,CA,,,373888,291633,497271,1,Daniel Webster Elementary,
 89237484,943 Church St # A,94114,San Francisco,CA,,,2289070,1877037,2586649,91,Harvey Milk Civil Rights Elementary,Everett Middle
 89237486,451 Kansas St UNIT 398,94107,San Francisco,CA,,,826906,735946,876520,43,Daniel Webster Elementary,
-89237498,733 Front St UNIT 409,94111,San Francisco,CA,,,834110,734017,967568,32,Chin Elementary,Francisco Middle
+89237498,733 Front St UNIT 409,94111,San Francisco,CA,,,834110,734017,967568,32,Chin (John Yehall) Elementary,Francisco Middle
 89237501,301 Main St # T17H,94105,San Francisco,CA,,,1598642,1390819,1870411,81,Daniel Webster Elementary,
 89237503,3620 19th St APT 12,94110,San Francisco,CA,,,1274625,1121670,1414834,84,Harvey Milk Civil Rights Elementary,Everett Middle
 89237505,1810 Polk St # 5,94109,San Francisco,CA,37.793685,-122.420947,1265484,1151590,1417342,68,Spring Valley Elementary,Marina Middle
@@ -16127,7 +16127,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89237543,631 Folsom St APT 19C,94107,San Francisco,CA,37.784713,-122.396873,1045569,888734,1150126,64,Daniel Webster Elementary,
 89237547,338 Spear St UNIT 35E,94105,San Francisco,CA,37.789533,-122.390371,1497493,1242919,1722117,78,Daniel Webster Elementary,
 89237548,338 Spear St UNIT 8D,94105,San Francisco,CA,,,1820378,1529118,2129842,86,Daniel Webster Elementary,
-89237554,690 Market St UNIT 1704,94104,San Francisco,CA,,,3220808,2576646,3800553,90,Chin Elementary,Francisco Middle
+89237554,690 Market St UNIT 1704,94104,San Francisco,CA,,,3220808,2576646,3800553,90,Chin (John Yehall) Elementary,Francisco Middle
 89237563,410 Stanyan St,94117,San Francisco,CA,37.774602,-122.454318,1409442,1183931,1663142,56,New Traditions Elementary,Roosevelt Middle
 89237565,451 Kansas St UNIT 430,94107,San Francisco,CA,,,499495,439556,564429,6,Daniel Webster Elementary,
 89237566,1501 Greenwich St UNIT 404,94123,San Francisco,CA,,,988163,859702,1116624,14,Sherman Elementary,Marina Middle
@@ -16145,7 +16145,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89237664,1352 Sanchez St,94131,San Francisco,CA,37.747421,-122.429538,876612,745120,990572,26,Alvarado Elementary,James Lick Middle
 89237676,301 Main St # T21G,94105,San Francisco,CA,,,906209,806526,969644,43,Daniel Webster Elementary,
 89237679,1283 Portola Dr,94127,San Francisco,CA,37.739821,-122.463684,1823908,1513844,2079255,88,Miraloma Elementary,James Denman Middle
-89237686,690 Market St UNIT 2102,94104,San Francisco,CA,37.788248,-122.403232,1309615,1165557,1466769,45,Chin Elementary,Francisco Middle
+89237686,690 Market St UNIT 2102,94104,San Francisco,CA,37.788248,-122.403232,1309615,1165557,1466769,45,Chin (John Yehall) Elementary,Francisco Middle
 89237701,338 Spear St UNIT 11F,94105,San Francisco,CA,,,1478884,1227474,1745083,77,Daniel Webster Elementary,
 89237721,301 Main St # T28F,94105,San Francisco,CA,37.789333,-122.391698,1758236,1529665,1916477,85,Daniel Webster Elementary,
 89237732,809 Masonic Ave,94117,San Francisco,CA,37.773704,-122.446354,831329,723256,956028,16,New Traditions Elementary,Roosevelt Middle
@@ -16155,7 +16155,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89237743,631 Folsom St APT 20B,94107,San Francisco,CA,,,1045485,888662,1150033,64,Daniel Webster Elementary,
 89237750,451 Kansas St UNIT 573,94107,San Francisco,CA,,,615913,542003,665186,13,Daniel Webster Elementary,
 89237756,4127 Kirkham St,94122,San Francisco,CA,37.758337,-122.505243,1306641,1175977,1450372,92,Francis Scott Key Elementary,A. P. Giannini Middle
-89237757,733 Front St UNIT 601,94111,San Francisco,CA,,,1642761,1347064,1872748,82,Chin Elementary,Francisco Middle
+89237757,733 Front St UNIT 601,94111,San Francisco,CA,,,1642761,1347064,1872748,82,Chin (John Yehall) Elementary,Francisco Middle
 89237760,425 1st St UNIT 5301,94105,San Francisco,CA,,,2550011,2142009,2856012,94,Daniel Webster Elementary,
 89237772,631 Folsom St APT 18C,94107,San Francisco,CA,,,1045485,888662,1150033,64,Daniel Webster Elementary,
 89237773,329 Bay St APT 401,94133,San Francisco,CA,,,1134126,907301,1326927,37,Garfield Elementary,Francisco Middle
@@ -16184,7 +16184,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89237987,734 Shrader St,94117,San Francisco,CA,,,1312893,1089701,1509827,50,Grattan Elementary,A. P. Giannini Middle
 89237990,329 Bay St # 102,94133,San Francisco,CA,,,1231371,1132861,1403763,42,Garfield Elementary,Francisco Middle
 89237991,451 Kansas St UNIT 520,94107,San Francisco,CA,,,438854,399357,460797,4,Daniel Webster Elementary,
-89237994,733 Front St UNIT 213,94111,San Francisco,CA,,,778755,700880,864418,23,Chin Elementary,Francisco Middle
+89237994,733 Front St UNIT 213,94111,San Francisco,CA,,,778755,700880,864418,23,Chin (John Yehall) Elementary,Francisco Middle
 89238016,843 Vermont St # 1,94107,San Francisco,CA,37.758951,-122.40364,1289091,1108618,1456673,82,Starr King Elementary,Aptos Middle
 89238028,631 Folsom St APT 16E,94107,San Francisco,CA,,,960133,844917,1056146,57,Daniel Webster Elementary,
 89238038,301 Main St # IT5F,94105,San Francisco,CA,,,861873,792923,930823,38,Daniel Webster Elementary,
@@ -16267,12 +16267,12 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89238682,888 7th St UNIT 140,94107,San Francisco,CA,,,674329,600153,755248,21,Daniel Webster Elementary,
 89238683,888 7th St UNIT 351,94107,San Francisco,CA,,,551557,485370,645322,8,Daniel Webster Elementary,
 89238689,318 Spear St # IT5D,94105,San Francisco,CA,,,1331841,1198657,1451707,72,Daniel Webster Elementary,
-89238693,733 Front St UNIT 406,94111,San Francisco,CA,,,650487,578933,702526,15,Chin Elementary,Francisco Middle
+89238693,733 Front St UNIT 406,94111,San Francisco,CA,,,650487,578933,702526,15,Chin (John Yehall) Elementary,Francisco Middle
 89238695,200 Pelican Cove Ter,94134,San Francisco,CA,,,684810,595785,739595,77,Bret Harte Elementary,James Lick Middle
 89238704,425 1st St UNIT 5103,94105,San Francisco,CA,,,1387655,1248890,1498667,74,Daniel Webster Elementary,
 89238707,1302 Pacific Ave,94109,San Francisco,CA,,,968666,852426,1075219,52,Yick Wo Elementary,Francisco Middle
 89238710,425 1st St UNIT 3905,94105,San Francisco,CA,,,763164,694479,816585,28,Daniel Webster Elementary,
-89238723,690 Market St UNIT 1504,94104,San Francisco,CA,,,4373911,3542868,4767563,97,Chin Elementary,Francisco Middle
+89238723,690 Market St UNIT 1504,94104,San Francisco,CA,,,4373911,3542868,4767563,97,Chin (John Yehall) Elementary,Francisco Middle
 89238727,57 Hancock St # 1,94114,San Francisco,CA,37.760173,-122.429473,716979,645281,795847,4,Harvey Milk Civil Rights Elementary,Everett Middle
 89238735,1770 Fell St # 5,94117,San Francisco,CA,37.773071,-122.447246,1596788,1309366,1852274,67,New Traditions Elementary,Roosevelt Middle
 89238739,83 Mcallister St # 307,94102,San Francisco,CA,,,383503,322143,425688,4,Tenderloin Elementary,Francisco Middle
@@ -16285,7 +16285,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89238765,2462 Clay St # B,94115,San Francisco,CA,37.791005,-122.433608,653948,529698,752040,14,Sherman Elementary,Marina Middle
 89238774,3145 Turk Blvd # 4,94118,San Francisco,CA,37.776975,-122.457542,1020338,897897,1193795,18,New Traditions Elementary,Roosevelt Middle
 89238777,790 Sanchez St APT 2,94114,San Francisco,CA,,,786399,636983,951543,6,Harvey Milk Civil Rights Elementary,Everett Middle
-89238783,733 Front St UNIT 204,94111,San Francisco,CA,,,816675,726841,914676,28,Chin Elementary,Francisco Middle
+89238783,733 Front St UNIT 204,94111,San Francisco,CA,,,816675,726841,914676,28,Chin (John Yehall) Elementary,Francisco Middle
 89238794,888 7th St UNIT 207,94107,San Francisco,CA,,,678215,610394,766383,22,Daniel Webster Elementary,
 89238805,338 Spear St UNIT 15C,94105,San Francisco,CA,37.789533,-122.390371,993960,884624,1093356,50,Daniel Webster Elementary,
 89238813,301 Main St # IT5A,94105,San Francisco,CA,,,1249143,1111737,1324092,67,Daniel Webster Elementary,
@@ -16300,15 +16300,15 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89238927,451 Kansas St UNIT 375,94107,San Francisco,CA,,,457372,384192,544273,4,Daniel Webster Elementary,
 89238932,451 Kansas St UNIT 531,94107,San Francisco,CA,,,809919,704630,866613,41,Daniel Webster Elementary,
 89238957,301 Main St # T19F,94105,San Francisco,CA,,,1479631,1331668,1612798,78,Daniel Webster Elementary,
-89238961,690 Market St UNIT 1105,94104,San Francisco,CA,,,3162657,2530126,4016574,89,Chin Elementary,Francisco Middle
+89238961,690 Market St UNIT 1105,94104,San Francisco,CA,,,3162657,2530126,4016574,89,Chin (John Yehall) Elementary,Francisco Middle
 89238985,418 Jessie St APT 306A,94103,San Francisco,CA,,,692497,609397,775597,33,Daniel Webster Elementary,
 89238995,338 Spear St UNIT 10E,94105,San Francisco,CA,,,1008259,796525,1169580,52,Daniel Webster Elementary,
 89238996,301 Main St # T35F,94105,San Francisco,CA,,,1777566,1617585,1901996,85,Daniel Webster Elementary,
-89239008,690 Market St UNIT 1505,94104,San Francisco,CA,,,923057,793829,1079977,23,Chin Elementary,Francisco Middle
+89239008,690 Market St UNIT 1505,94104,San Francisco,CA,,,923057,793829,1079977,23,Chin (John Yehall) Elementary,Francisco Middle
 89239017,1501 Greenwich St UNIT 402,94123,San Francisco,CA,,,997870,858168,1127593,14,Sherman Elementary,Marina Middle
 89239021,3620 19th St APT 7,94110,San Francisco,CA,,,1212347,1030495,1345705,79,Harvey Milk Civil Rights Elementary,Everett Middle
 89239029,329 Bay St APT 304,94133,San Francisco,CA,,,1133243,929259,1314562,37,Garfield Elementary,Francisco Middle
-89239051,733 Front St UNIT 407,94111,San Francisco,CA,37.798027,-122.400093,698070,593360,788819,18,Chin Elementary,Francisco Middle
+89239051,733 Front St UNIT 407,94111,San Francisco,CA,37.798027,-122.400093,698070,593360,788819,18,Chin (John Yehall) Elementary,Francisco Middle
 89239057,318 Spear St # IT6D,94105,San Francisco,CA,,,1332166,1225593,1478704,72,Daniel Webster Elementary,
 89239061,66 Cervantes Blvd,94123,San Francisco,CA,37.80372,-122.438041,1505027,1234122,1640479,32,Sherman Elementary,Marina Middle
 89239077,185 Broad St # 1850A,94112,San Francisco,CA,37.712894,-122.458531,1286704,1029363,1531178,99,Sheridan Elementary,James Denman Middle
@@ -16319,8 +16319,8 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89239093,451 Kansas St UNIT 352,94107,San Francisco,CA,,,438043,398619,459945,4,Daniel Webster Elementary,
 89239100,53 Prospect Ave,94110,San Francisco,CA,,,592804,551308,652084,2,Leonard R. Flynn Elementary,James Lick Middle
 89239105,451 Kansas St UNIT 451,94107,San Francisco,CA,37.764114,-122.402984,603258,524834,663584,12,Daniel Webster Elementary,
-89239106,733 Front St UNIT 206,94111,San Francisco,CA,,,614778,553300,694699,13,Chin Elementary,Francisco Middle
-89239122,690 Market St UNIT 2001,94104,San Francisco,CA,,,3678126,2868938,4634439,95,Chin Elementary,Francisco Middle
+89239106,733 Front St UNIT 206,94111,San Francisco,CA,,,614778,553300,694699,13,Chin (John Yehall) Elementary,Francisco Middle
+89239122,690 Market St UNIT 2001,94104,San Francisco,CA,,,3678126,2868938,4634439,95,Chin (John Yehall) Elementary,Francisco Middle
 89239127,301 Main St # T36G,94105,San Francisco,CA,,,1951334,1736687,2165981,88,Daniel Webster Elementary,
 89239135,2405 Folsom St APT 5,94110,San Francisco,CA,,,1293531,1138307,1448755,85,George R. Moscone Elementary,Herbert Hoover Middle
 89239138,308 Corbett Ave,94114,San Francisco,CA,,,1502688,1232204,1773172,57,Clarendon Elementary,Presidio Middle
@@ -16351,8 +16351,8 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89239423,451 Kansas St UNIT 518,94107,San Francisco,CA,,,760980,654443,844688,34,Daniel Webster Elementary,
 89239445,3354 20th St # 1,94110,San Francisco,CA,,,1138991,968142,1309840,72,George R. Moscone Elementary,Herbert Hoover Middle
 89239458,318 Spear St # IT3G,94105,San Francisco,CA,,,799751,727773,863731,31,Daniel Webster Elementary,
-89239461,733 Front St UNIT 605,94111,San Francisco,CA,,,1493527,1224692,1702621,79,Chin Elementary,Francisco Middle
-89239465,690 Market St UNIT 2401,94104,San Francisco,CA,37.788248,-122.403232,4582726,3666181,5453444,98,Chin Elementary,Francisco Middle
+89239461,733 Front St UNIT 605,94111,San Francisco,CA,,,1493527,1224692,1702621,79,Chin (John Yehall) Elementary,Francisco Middle
+89239465,690 Market St UNIT 2401,94104,San Francisco,CA,37.788248,-122.403232,4582726,3666181,5453444,98,Chin (John Yehall) Elementary,Francisco Middle
 89239472,631 Folsom St APT 20C,94107,San Francisco,CA,,,1042276,896357,1146504,64,Daniel Webster Elementary,
 89239473,338 Spear St UNIT 20C,94105,San Francisco,CA,,,870749,783674,949116,39,Daniel Webster Elementary,
 89239484,318 Spear St # IT3B,94105,San Francisco,CA,,,1332624,1226014,1479213,72,Daniel Webster Elementary,
@@ -16369,8 +16369,8 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89239559,1304 Pacific Ave,94109,San Francisco,CA,37.7958,-122.416827,1075810,925197,1194149,59,Yick Wo Elementary,Francisco Middle
 89239561,3620 19th St APT 27,94110,San Francisco,CA,,,652669,606982,724463,5,Harvey Milk Civil Rights Elementary,Everett Middle
 89239585,338 Spear St UNIT 32F,94105,San Francisco,CA,,,2000973,1660808,2361148,89,Daniel Webster Elementary,
-89239591,733 Front St UNIT 312,94111,San Francisco,CA,,,926056,787148,1074225,41,Chin Elementary,Francisco Middle
-89239617,733 Front St UNIT 413,94111,San Francisco,CA,,,806906,710077,903735,27,Chin Elementary,Francisco Middle
+89239591,733 Front St UNIT 312,94111,San Francisco,CA,,,926056,787148,1074225,41,Chin (John Yehall) Elementary,Francisco Middle
+89239617,733 Front St UNIT 413,94111,San Francisco,CA,,,806906,710077,903735,27,Chin (John Yehall) Elementary,Francisco Middle
 89239620,301 Main St # IT9H,94105,San Francisco,CA,,,1682313,1429966,1934660,83,Daniel Webster Elementary,
 89239626,300 Berry St UNIT 102,94158,San Francisco,CA,,,744103,677134,818513,23,Daniel Webster Elementary,
 89239644,580-582 Fell St #582,94102,San Francisco,CA,,,697078,627370,787698,45,John Muir Elementary,James Lick Middle
@@ -16447,7 +16447,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89240191,325 China Basin St UNIT 607,94158,San Francisco,CA,37.771663,-122.387451,1594959,1339766,1850152,95,Daniel Webster Elementary,
 89240196,631 Folsom St APT 16F,94107,San Francisco,CA,,,1109342,931847,1209183,70,Daniel Webster Elementary,
 89240218,333 Main St # IT2A,94105,San Francisco,CA,37.788902,-122.391009,927951,798038,1057864,45,Daniel Webster Elementary,
-89240244,733 Front St UNIT 701,94111,San Francisco,CA,,,1661629,1412385,1877641,83,Chin Elementary,Francisco Middle
+89240244,733 Front St UNIT 701,94111,San Francisco,CA,,,1661629,1412385,1877641,83,Chin (John Yehall) Elementary,Francisco Middle
 89240245,325 China Basin St UNIT 110,94158,San Francisco,CA,,,1601115,1328925,1745215,95,Daniel Webster Elementary,
 89240252,301 Main St # T17F,94105,San Francisco,CA,,,1476174,1313795,1609030,77,Daniel Webster Elementary,
 89240259,888 7th St UNIT 237,94107,San Francisco,CA,,,421428,383499,450928,3,Daniel Webster Elementary,
@@ -16455,7 +16455,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89240273,418 Jessie St APT 900A,94103,San Francisco,CA,,,2203585,1608617,2842625,95,Daniel Webster Elementary,
 89240275,301 Main St # T22E,94105,San Francisco,CA,,,1236747,1137807,1335687,67,Daniel Webster Elementary,
 89240278,333 Main St # IT4M,94105,San Francisco,CA,,,811015,729914,900227,33,Daniel Webster Elementary,
-89240297,733 Front St UNIT 509,94111,San Francisco,CA,,,786824,700273,928452,24,Chin Elementary,Francisco Middle
+89240297,733 Front St UNIT 509,94111,San Francisco,CA,,,786824,700273,928452,24,Chin (John Yehall) Elementary,Francisco Middle
 89240318,631 Folsom St APT 8C,94107,San Francisco,CA,,,1008076,887107,1118964,61,Daniel Webster Elementary,
 89240345,2443 Clement St APT 8,94121,San Francisco,CA,,,719083,647175,790991,4,Alamo Elementary,Presidio Middle
 89240348,338 Spear St UNIT 39A,94105,San Francisco,CA,,,1473423,1237675,1738639,77,Daniel Webster Elementary,
@@ -16487,7 +16487,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 89240571,615 Peralta Ave,94110,San Francisco,CA,37.743016,-122.408537,576129,524277,651026,2,Leonard R. Flynn Elementary,James Lick Middle
 89240582,23 Homestead St,94114,San Francisco,CA,37.750664,-122.439461,1519454,1306730,1732178,59,Alvarado Elementary,James Lick Middle
 89240584,418 Jessie St APT 504A,94103,San Francisco,CA,,,733523,652835,828881,40,Daniel Webster Elementary,
-89240595,733 Front St UNIT 706,94111,San Francisco,CA,37.798026,-122.400092,717038,623823,788742,19,Chin Elementary,Francisco Middle
+89240595,733 Front St UNIT 706,94111,San Francisco,CA,37.798026,-122.400092,717038,623823,788742,19,Chin (John Yehall) Elementary,Francisco Middle
 89240606,338 Spear St UNIT 21C,94105,San Francisco,CA,,,1073794,977153,1202649,56,Daniel Webster Elementary,
 89240618,530-532 Rhode Island St,94107,San Francisco,CA,37.763019,-122.402717,1107968,919613,1318482,70,Daniel Webster Elementary,
 89240626,888 7th St UNIT 135,94107,San Francisco,CA,,,329367,306311,359010,0,Daniel Webster Elementary,
@@ -16546,7 +16546,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 96018723,300 Berry St UNIT 420,94158,San Francisco,CA,,,694936,639341,750531,10,Daniel Webster Elementary,
 96018939,1521 Sutter St APT 303,94109,San Francisco,CA,,,643361,566158,720564,23,Sherman Elementary,Marina Middle
 96019817,574 26th Ave APT 1,94121,San Francisco,CA,37.778621,-122.485343,594419,534977,665749,2,Argonne Elementary,Presidio Middle
-96019907,25 Hotaling Pl,94111,San Francisco,CA,,,978375,831619,1134915,48,Chin Elementary,Francisco Middle
+96019907,25 Hotaling Pl,94111,San Francisco,CA,,,978375,831619,1134915,48,Chin (John Yehall) Elementary,Francisco Middle
 96020708,419 14th St,94103,San Francisco,CA,,,1307701,1150777,1490779,87,Sanchez Elementary,Everett Middle
 96021165,2115 Baker St,94115,San Francisco,CA,,,2268528,1882878,2608807,77,William L. Cobb Elementary,Roosevelt Middle
 96021264,443 Carl St # 449,94117,San Francisco,CA,,,764622,657575,856377,12,Grattan Elementary,A. P. Giannini Middle
@@ -16564,8 +16564,8 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 96023760,201 Miguel St,94131,San Francisco,CA,,,650792,553173,767935,10,Glen Park Elementary,James Lick Middle
 96023877,231-235 San Jose Ave,94110,San Francisco,CA,,,1105978,984320,1260815,68,Cesar Chavez Elementary,Everett Middle
 96024081,1299 Bush St APT 801,94109,San Francisco,CA,,,1296250,1153662,1516613,70,Redding Elementary,Marina Middle
-96024161,845 Montgomery St,94133,San Francisco,CA,,,797410,709695,901073,14,Chin Elementary,Francisco Middle
-96024904,25 Hotaling Pl UNIT D,94111,San Francisco,CA,,,625825,488143,750990,14,Chin Elementary,Francisco Middle
+96024161,845 Montgomery St,94133,San Francisco,CA,,,797410,709695,901073,14,Chin (John Yehall) Elementary,Francisco Middle
+96024904,25 Hotaling Pl UNIT D,94111,San Francisco,CA,,,625825,488143,750990,14,Chin (John Yehall) Elementary,Francisco Middle
 96025213,1070 Capp St APT 3,94110,San Francisco,CA,,,1154614,1016060,1327806,73,Cesar Chavez Elementary,Everett Middle
 96025220,15 Divisadero St,94117,San Francisco,CA,,,956642,841845,1090572,26,Mckinley Elementary,Everett Middle
 96025720,131 Collingwood St,94114,San Francisco,CA,,,946497,785593,1116866,16,Harvey Milk Civil Rights Elementary,Everett Middle
@@ -16577,7 +16577,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 96028097,300 Berry St UNIT 921,94158,San Francisco,CA,,,713148,563387,855778,14,Daniel Webster Elementary,
 96028168,300 Berry St UNIT 1303,94158,San Francisco,CA,,,715005,643505,786505,14,Daniel Webster Elementary,
 96028528,300 Berry St UNIT 520,94158,San Francisco,CA,,,666333,599700,726303,5,Daniel Webster Elementary,
-96028849,1347-1349 Kearny St,94133,San Francisco,CA,,,2245657,1616873,2739702,76,Chin Elementary,Francisco Middle
+96028849,1347-1349 Kearny St,94133,San Francisco,CA,,,2245657,1616873,2739702,76,Chin (John Yehall) Elementary,Francisco Middle
 96028852,1151 Sutter St UNIT 402,94109,San Francisco,CA,,,899519,791577,998466,46,Redding Elementary,Marina Middle
 96029683,330 Berry St UNIT 400,94158,San Francisco,CA,,,781802,687986,867800,28,Daniel Webster Elementary,
 96029893,300 Berry St UNIT 1410,94158,San Francisco,CA,37.774137,-122.395678,898748,808873,961660,41,Daniel Webster Elementary,
@@ -16631,7 +16631,7 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 96040647,448-450 Fair Oaks St,94110,San Francisco,CA,,,1049507,892081,1196438,60,Alvarado Elementary,James Lick Middle
 96040901,2112 Pine St # A,94115,San Francisco,CA,,,1568209,1348660,1819122,64,Sherman Elementary,Marina Middle
 96040943,35 Saturn St,94114,San Francisco,CA,,,934245,812793,1046354,16,Mckinley Elementary,Everett Middle
-96040985,428 Vallejo St,94133,San Francisco,CA,,,763440,671827,855053,12,Chin Elementary,Francisco Middle
+96040985,428 Vallejo St,94133,San Francisco,CA,,,763440,671827,855053,12,Chin (John Yehall) Elementary,Francisco Middle
 96041334,614 Fillmore St,94117,San Francisco,CA,37.775196,-122.430818,1758373,1406698,2162799,78,John Muir Elementary,James Lick Middle
 96041638,168 Yerba Buena Ave,94127,San Francisco,CA,,,4077403,3547341,4770562,99,Miraloma Elementary,James Denman Middle
 96041763,1299 Bush St APT 201,94109,San Francisco,CA,,,1353046,1190680,1515412,72,Redding Elementary,Marina Middle
@@ -16670,11 +16670,11 @@ zpid,street,zipcode,city,state,latitude,longitude,amount,lowAmount,highAmount,pe
 96048523,300 Berry St UNIT 804,94158,San Francisco,CA,,,797993,726174,893752,29,Daniel Webster Elementary,
 96048819,300 Berry St UNIT 421,94158,San Francisco,CA,,,675274,614499,729296,7,Daniel Webster Elementary,
 96048867,300 Berry St UNIT 920,94158,San Francisco,CA,,,663207,596886,722896,5,Daniel Webster Elementary,
-96049219,42 Hotaling Pl,94111,San Francisco,CA,,,4220807,3672102,4727304,99,Chin Elementary,Francisco Middle
-96049310,845 Montgomery St UNIT H,94133,San Francisco,CA,,,1261083,1008866,1462856,43,Chin Elementary,Francisco Middle
+96049219,42 Hotaling Pl,94111,San Francisco,CA,,,4220807,3672102,4727304,99,Chin (John Yehall) Elementary,Francisco Middle
+96049310,845 Montgomery St UNIT H,94133,San Francisco,CA,,,1261083,1008866,1462856,43,Chin (John Yehall) Elementary,Francisco Middle
 96049332,2345 Jackson St APT 4,94115,San Francisco,CA,,,591043,514207,691520,9,Sherman Elementary,Marina Middle
 96049447,1299 Bush St APT 203,94109,San Francisco,CA,,,836529,727780,953643,40,Redding Elementary,Marina Middle
-96049612,567 Vallejo St # 402,94133,San Francisco,CA,,,1633445,1339425,1911131,60,Chin Elementary,Francisco Middle
+96049612,567 Vallejo St # 402,94133,San Francisco,CA,,,1633445,1339425,1911131,60,Chin (John Yehall) Elementary,Francisco Middle
 96049718,300 Berry St UNIT 1305,94158,San Francisco,CA,,,725801,653221,783865,20,Daniel Webster Elementary,
 96049752,1299 Bush St APT 502,94109,San Francisco,CA,,,562427,500560,629918,14,Redding Elementary,Marina Middle
 96049886,300 Berry St UNIT 1510,94158,San Francisco,CA,,,932376,811167,1006966,46,Daniel Webster Elementary,
