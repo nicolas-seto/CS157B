@@ -23,7 +23,7 @@ for line in $(echo ${zpids}) ; do
             if [ count == 0 ] ; then
                 continue
             elif [[ $line2 =~ "This home" ]] ; then
-                echo "$line2" | sed "s/This home/$line\n/g" > "$NEW_FILE"
+                echo "$line2" | sed "s/(\d+)\/(\d+)\/(\d+)/\3-\1-\2/g" | sed "s/This home/$line\n/g" > "$NEW_FILE"
             fi
             (( count++ ))
         done
