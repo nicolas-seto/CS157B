@@ -13,18 +13,19 @@ for line in $(echo ${zpids}) ; do
         continue
     else
         echo "Extracting past zestimates for home $line . . ."
-        homeOutput=$(curl "${URL}${line}")
-        homeOutputComma=$(echo "${homeOutput}" | sed "s/\t/,/g")
+        curl -o "${line}.txt" "${URL}${line}"
         (( count = 0 ))
         echo "Parsing home data for relevant data . . ."
-        for line2 in $(echo ${homeOutputComma}) ; do
+        while read line2 ; do
             if [ count == 0 ] ; then
                 continue
             elif [[ $line2 =~ "This home" ]] ; then
-                echo "$line2" | sed "s/(\d+)\/(\d+)\/(\d+)/\3-\1-\2/g" | sed "s/This home/${line}\\n/g" >> "$NEW_FILE"
+                echo "$line2" | sed "s/\t/,/g" | sed "s/\([0-9]\+\)\/\([0-9]\+\)\/\([0-9]\+\)/\3-\1-\2/g" | sed "s/This home/${line}\\n/g" >> "$NEW_FILE"
             fi
             (( count++ ))
-        done
+        done < "${line}.txt"
+        
+        rm -f "${line}.txt"
     fi
 done
 echo "DONE\n"
