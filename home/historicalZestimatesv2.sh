@@ -6,11 +6,17 @@ NEW_FILE="historicalZestimates.csv"
 
 # Extract all the zpids in the first column
 zpids=$(cut -d , -f 1 ${PARSE_FILE})
-echo "date,value,series,zpid" > "$NEW_FILE"
 
+(( counter = 0 ))
 for line in $(echo ${zpids}) ; do
     if [ $line == "zpid" ] ; then
         continue
+    elif [ $counter -lt 0 ] ; then
+        echo "Skipping line $counter"
+        continue
+    elif [ $counter -gt 1000 ] ; then
+        echo "Reached a thousand files"
+        break
     else
         echo "Extracting past zestimates for home $line . . ."
         homeValues=$(curl "${URL}${line}")
@@ -25,6 +31,8 @@ for line in $(echo ${zpids}) ; do
             fi
             (( count++ ))
         done
+
+        (( counter++ ))
     fi
 done
-echo "DONE\n"
+echo "DONE"
